@@ -1,0 +1,9 @@
+{
+  "dataset_file": "aihub",
+
+  "combine_datasets": ["aihub"],
+  "combine_datasets_val": ["aihub"],
+
+  "aihub_root": "/root/dataset/PoC_Dataset_v1/real",
+  "aihub_ann_dir": "/root/mdetr/mdetr_annotations"
+}

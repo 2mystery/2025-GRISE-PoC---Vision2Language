@@ -1,0 +1,6 @@
+{
+  "no_detection": false,
+  "do_qa": false,
+  "predict_final": false,
+  "num_classes": 175
+}
