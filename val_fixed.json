@@ -1,0 +1,6002 @@
+[
+    {
+        "image_id": 1010129000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010129/rgb/010129_000002.png",
+        "caption": "Could you help me move that work light to the right?",
+        "bbox": [
+            0.6309895833333333,
+            0.5564814814814815,
+            0.1734375,
+            0.15925925925925927
+        ],
+        "label": 183
+    },
+    {
+        "image_id": 1010250000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010250/rgb/010250_000004.png",
+        "caption": "Can you move that orange shovel to the left?",
+        "bbox": [
+            0.47213541666666664,
+            0.5800925925925926,
+            0.050520833333333334,
+            0.13240740740740742
+        ],
+        "label": 31
+    },
+    {
+        "image_id": 1010173000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010173/rgb/010173_000002.png",
+        "caption": "Can you help me move the white hard hat to the right?",
+        "bbox": [
+            0.578125,
+            0.6157407407407407,
+            0.07916666666666666,
+            0.11296296296296296
+        ],
+        "label": 181
+    },
+    {
+        "image_id": 1010128000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010128/rgb/010128_000001.png",
+        "caption": "Could you move these black safety shoes to the right?",
+        "bbox": [
+            0.6963541666666667,
+            0.4162037037037037,
+            0.096875,
+            0.17685185185185184
+        ],
+        "label": 182
+    },
+    {
+        "image_id": 1010121000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010121/rgb/010121_000003.png",
+        "caption": "Can you help me move the jigsaw to the right?",
+        "bbox": [
+            0.7328125,
+            0.2300925925925926,
+            0.09166666666666666,
+            0.2064814814814815
+        ],
+        "label": 58
+    },
+    {
+        "image_id": 1010268000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010268/rgb/010268_000001.png",
+        "caption": "Let's move that painting masking tape downward.",
+        "bbox": [
+            0.5651041666666666,
+            0.5314814814814814,
+            0.078125,
+            0.07037037037037037
+        ],
+        "label": 91
+    },
+    {
+        "image_id": 1010169000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010169/rgb/010169_000003.png",
+        "caption": "Can you help me move that silver monkey wrench to the right?",
+        "bbox": [
+            0.5942708333333333,
+            0.6824074074074075,
+            0.09375,
+            0.22962962962962963
+        ],
+        "label": 21
+    },
+    {
+        "image_id": 1010233000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010233/rgb/010233_000003.png",
+        "caption": "Can you help me move this black power drill upwards?",
+        "bbox": [
+            0.4830729166666667,
+            0.45740740740740743,
+            0.16822916666666668,
+            0.11666666666666667
+        ],
+        "label": 53
+    },
+    {
+        "image_id": 1010147000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010147/rgb/010147_000002.png",
+        "caption": "Move the drill jig to the right.",
+        "bbox": [
+            0.46432291666666664,
+            0.7111111111111111,
+            0.06197916666666667,
+            0.15
+        ],
+        "label": 15
+    },
+    {
+        "image_id": 1010192000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010192/rgb/010192_000002.png",
+        "caption": "Let's get that black twine out of the way together.",
+        "bbox": [
+            0.4666666666666667,
+            0.38425925925925924,
+            0.06875,
+            0.16111111111111112
+        ],
+        "label": 152
+    },
+    {
+        "image_id": 1010282000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010282/rgb/010282_000005.png",
+        "caption": "Let's move the silver triangle to the left together.",
+        "bbox": [
+            0.67265625,
+            0.6388888888888888,
+            0.06510416666666667,
+            0.1388888888888889
+        ],
+        "label": 30
+    },
+    {
+        "image_id": 1010303000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010303/rgb/010303_000001.png",
+        "caption": "Let's move this black bandsaw together.",
+        "bbox": [
+            0.39375,
+            0.2662037037037037,
+            0.23958333333333334,
+            0.16203703703703703
+        ],
+        "label": 24
+    },
+    {
+        "image_id": 1010235000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010235/rgb/010235_000004.png",
+        "caption": "Let's move this white paint roller down.",
+        "bbox": [
+            0.48385416666666664,
+            0.36527777777777776,
+            0.078125,
+            0.049074074074074076
+        ],
+        "label": 195
+    },
+    {
+        "image_id": 1010223000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010223/rgb/010223_000005.png",
+        "caption": "Could you help me move that brown plane to the right?",
+        "bbox": [
+            0.39765625,
+            0.3212962962962963,
+            0.04739583333333333,
+            0.07962962962962963
+        ],
+        "label": 10
+    },
+    {
+        "image_id": 1010244000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010244/rgb/010244_000003.png",
+        "caption": "Could you help me move that black hookspanner to the left?",
+        "bbox": [
+            0.44296875,
+            0.3282407407407407,
+            0.018229166666666668,
+            0.05092592592592592
+        ],
+        "label": 80
+    },
+    {
+        "image_id": 1010136000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010136/rgb/010136_000001.png",
+        "caption": "Find the object 179.",
+        "bbox": [
+            0.5940104166666667,
+            0.586574074074074,
+            0.0484375,
+            0.075
+        ],
+        "label": 179
+    },
+    {
+        "image_id": 1010280000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010280/rgb/010280_000002.png",
+        "caption": "Please move the yellow taka upwards.",
+        "bbox": [
+            0.5166666666666667,
+            0.3509259259259259,
+            0.07916666666666666,
+            0.04259259259259259
+        ],
+        "label": 62
+    },
+    {
+        "image_id": 1010191000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010191/rgb/010191_000003.png",
+        "caption": "Can you help me move the red silicone gun upwards?",
+        "bbox": [
+            0.36953125,
+            0.5648148148148148,
+            0.12552083333333333,
+            0.20925925925925926
+        ],
+        "label": 155
+    },
+    {
+        "image_id": 1010134000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010134/rgb/010134_000005.png",
+        "caption": "Let's move those earplugs upwards.",
+        "bbox": [
+            0.6044270833333333,
+            0.5611111111111111,
+            0.025520833333333333,
+            0.03333333333333333
+        ],
+        "label": 170
+    },
+    {
+        "image_id": 1010242000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010242/rgb/010242_000002.png",
+        "caption": "Please move that black ax upwards.",
+        "bbox": [
+            0.64765625,
+            0.38796296296296295,
+            0.18177083333333333,
+            0.04259259259259259
+        ],
+        "label": 79
+    },
+    {
+        "image_id": 1010157000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010157/rgb/010157_000002.png",
+        "caption": "Could you help me move the pink paper shredder upwards?",
+        "bbox": [
+            0.709375,
+            0.38796296296296295,
+            0.134375,
+            0.10740740740740741
+        ],
+        "label": 150
+    },
+    {
+        "image_id": 1010167000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010167/rgb/010167_000001.png",
+        "caption": "Let's move that protractor to the right together.",
+        "bbox": [
+            0.7177083333333333,
+            0.663425925925926,
+            0.16041666666666668,
+            0.10648148148148148
+        ],
+        "label": 27
+    },
+    {
+        "image_id": 1010270000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010270/rgb/010270_000003.png",
+        "caption": "Could you help me move the ivory cross connecting pipe to the right?",
+        "bbox": [
+            0.75390625,
+            0.5106481481481482,
+            0.034895833333333334,
+            0.049074074074074076
+        ],
+        "label": 114
+    },
+    {
+        "image_id": 1010232000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010232/rgb/010232_000001.png",
+        "caption": "Could you help me move this soldering iron upwards?",
+        "bbox": [
+            0.40963541666666664,
+            0.2361111111111111,
+            0.11197916666666667,
+            0.06481481481481481
+        ],
+        "label": 50
+    },
+    {
+        "image_id": 1010223000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010223/rgb/010223_000004.png",
+        "caption": "Can you move that brown plane down?",
+        "bbox": [
+            0.5419270833333333,
+            0.7129629629629629,
+            0.03177083333333333,
+            0.0962962962962963
+        ],
+        "label": 10
+    },
+    {
+        "image_id": 1010158000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010158/rgb/010158_000005.png",
+        "caption": "Let's move that yellow box tape to the left.",
+        "bbox": [
+            0.35859375,
+            0.6138888888888889,
+            0.1015625,
+            0.1537037037037037
+        ],
+        "label": 151
+    },
+    {
+        "image_id": 1010131000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010131/rgb/010131_000002.png",
+        "caption": "Could you help me move those black earmuffs to the left?",
+        "bbox": [
+            0.41432291666666665,
+            0.6722222222222223,
+            0.09635416666666667,
+            0.13148148148148148
+        ],
+        "label": 169
+    },
+    {
+        "image_id": 1010222000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010222/rgb/010222_000001.png",
+        "caption": "Let's move this yellow O-ring puller downward together.",
+        "bbox": [
+            0.3346354166666667,
+            0.24537037037037038,
+            0.016145833333333335,
+            0.053703703703703705
+        ],
+        "label": 43
+    },
+    {
+        "image_id": 1010125000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010125/rgb/010125_000005.png",
+        "caption": "Let's move that security side together.",
+        "bbox": [
+            0.48359375,
+            0.5018518518518519,
+            0.0796875,
+            0.12222222222222222
+        ],
+        "label": 176
+    },
+    {
+        "image_id": 1010208000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010208/rgb/010208_000002.png",
+        "caption": "Can you move this silver helical gear down?",
+        "bbox": [
+            0.45364583333333336,
+            0.48842592592592593,
+            0.021875,
+            0.03981481481481482
+        ],
+        "label": 100
+    },
+    {
+        "image_id": 1010262000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010262/rgb/010262_000004.png",
+        "caption": "Could you move that black conduit to the left?",
+        "bbox": [
+            0.46484375,
+            0.5074074074074074,
+            0.16510416666666666,
+            0.22962962962962963
+        ],
+        "label": 121
+    },
+    {
+        "image_id": 1010300000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010300/rgb/010300_000004.png",
+        "caption": "Let's move that blue file down.",
+        "bbox": [
+            0.7546875,
+            0.5305555555555556,
+            0.31666666666666665,
+            0.13703703703703704
+        ],
+        "label": 166
+    },
+    {
+        "image_id": 1010244000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010244/rgb/010244_000003.png",
+        "caption": "Can you help me move that gray pulley to the left?",
+        "bbox": [
+            0.37578125,
+            0.4587962962962963,
+            0.0140625,
+            0.026851851851851852
+        ],
+        "label": 12
+    },
+    {
+        "image_id": 1010265000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010265/rgb/010265_000003.png",
+        "caption": "Could you help me move that white cross-connection pipe to the left?",
+        "bbox": [
+            0.6083333333333333,
+            0.5518518518518518,
+            0.03854166666666667,
+            0.04259259259259259
+        ],
+        "label": 114
+    },
+    {
+        "image_id": 1010237000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010237/rgb/010237_000005.png",
+        "caption": "Can you move these black aviation scissors upwards?",
+        "bbox": [
+            0.6130208333333333,
+            0.4898148148148148,
+            0.08541666666666667,
+            0.06111111111111111
+        ],
+        "label": 78
+    },
+    {
+        "image_id": 1010221000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010221/rgb/010221_000002.png",
+        "caption": "Can you move the silver jet to the right?",
+        "bbox": [
+            0.3341145833333333,
+            0.5601851851851852,
+            0.10885416666666667,
+            0.22777777777777777
+        ],
+        "label": 28
+    },
+    {
+        "image_id": 1010306000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010306/rgb/010306_000002.png",
+        "caption": "Let's move this blue height gauge down together.",
+        "bbox": [
+            0.5036458333333333,
+            0.5268518518518519,
+            0.15729166666666666,
+            0.08333333333333333
+        ],
+        "label": 76
+    },
+    {
+        "image_id": 1010276000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010276/rgb/010276_000004.png",
+        "caption": "Let's move the gray hex wrench to the right together.",
+        "bbox": [
+            0.3184895833333333,
+            0.37592592592592594,
+            0.0234375,
+            0.02962962962962963
+        ],
+        "label": 49
+    },
+    {
+        "image_id": 1010182000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010182/rgb/010182_000002.png",
+        "caption": "Can you move that white duct tape to the left?",
+        "bbox": [
+            0.47265625,
+            0.8199074074074074,
+            0.05572916666666667,
+            0.11388888888888889
+        ],
+        "label": 11
+    },
+    {
+        "image_id": 1010304000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010304/rgb/010304_000003.png",
+        "caption": "Can you move this laser range finder?",
+        "bbox": [
+            0.5890625,
+            0.7412037037037037,
+            0.06875,
+            0.11388888888888889
+        ],
+        "label": 16
+    },
+    {
+        "image_id": 1010260000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010260/rgb/010260_000004.png",
+        "caption": "Let's move the white injection lead downwards together.",
+        "bbox": [
+            0.7177083333333333,
+            0.40925925925925927,
+            0.084375,
+            0.0962962962962963
+        ],
+        "label": 136
+    },
+    {
+        "image_id": 1010230000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010230/rgb/010230_000003.png",
+        "caption": "Let's move that gray hex socket wrench upwards.",
+        "bbox": [
+            0.5015625,
+            0.4912037037037037,
+            0.036458333333333336,
+            0.041666666666666664
+        ],
+        "label": 48
+    },
+    {
+        "image_id": 1010259000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010259/rgb/010259_000003.png",
+        "caption": "Can you move the wallpapering knife?",
+        "bbox": [
+            0.6747395833333333,
+            0.49953703703703706,
+            0.0828125,
+            0.1398148148148148
+        ],
+        "label": 13
+    },
+    {
+        "image_id": 1010173000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010173/rgb/010173_000004.png",
+        "caption": "Could you help me move that black compass down?",
+        "bbox": [
+            0.31640625,
+            0.6888888888888889,
+            0.0234375,
+            0.03333333333333333
+        ],
+        "label": 171
+    },
+    {
+        "image_id": 1010259000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010259/rgb/010259_000004.png",
+        "caption": "Let's move the black screw jack to the right.",
+        "bbox": [
+            0.44453125,
+            0.6342592592592593,
+            0.0234375,
+            0.08518518518518518
+        ],
+        "label": 34
+    },
+    {
+        "image_id": 1010133000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010133/rgb/010133_000001.png",
+        "caption": "Find the object 183.",
+        "bbox": [
+            0.3802083333333333,
+            0.7754629629629629,
+            0.16875,
+            0.24166666666666667
+        ],
+        "label": 183
+    },
+    {
+        "image_id": 1010226000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010226/rgb/010226_000002.png",
+        "caption": "Let's get rid of the hydraulic cutter.",
+        "bbox": [
+            0.5598958333333334,
+            0.42592592592592593,
+            0.38645833333333335,
+            0.34074074074074073
+        ],
+        "label": 47
+    },
+    {
+        "image_id": 1010319000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010319/rgb/010319_000002.png",
+        "caption": "Could you help me move that black prybar down?",
+        "bbox": [
+            0.6463541666666667,
+            0.5856481481481481,
+            0.084375,
+            0.06388888888888888
+        ],
+        "label": 72
+    },
+    {
+        "image_id": 1010233000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010233/rgb/010233_000005.png",
+        "caption": "Can you help me put away those pliers?",
+        "bbox": [
+            0.5145833333333333,
+            0.6027777777777777,
+            0.09479166666666666,
+            0.12222222222222222
+        ],
+        "label": 73
+    },
+    {
+        "image_id": 1010221000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010221/rgb/010221_000001.png",
+        "caption": "Can you help me move that jet to the right?",
+        "bbox": [
+            0.7234375,
+            0.6148148148148148,
+            0.14270833333333333,
+            0.08703703703703704
+        ],
+        "label": 28
+    },
+    {
+        "image_id": 1010175000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010175/rgb/010175_000001.png",
+        "caption": "Can you help me put that megaphone away?",
+        "bbox": [
+            0.71484375,
+            0.4981481481481482,
+            0.1140625,
+            0.0962962962962963
+        ],
+        "label": 172
+    },
+    {
+        "image_id": 1010307000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010307/rgb/010307_000003.png",
+        "caption": "Could you move that yellow soldering iron to the right?",
+        "bbox": [
+            0.3026041666666667,
+            0.6375,
+            0.05,
+            0.15092592592592594
+        ],
+        "label": 50
+    },
+    {
+        "image_id": 1010299000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010299/rgb/010299_000002.png",
+        "caption": "Please move this file to the left",
+        "bbox": [
+            0.18177083333333333,
+            0.6212962962962963,
+            0.15625,
+            0.21296296296296297
+        ],
+        "label": 166
+    },
+    {
+        "image_id": 1010248000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010248/rgb/010248_000003.png",
+        "caption": "Move the red bolt cutters upwards.",
+        "bbox": [
+            0.5794270833333334,
+            0.5509259259259259,
+            0.11614583333333334,
+            0.1
+        ],
+        "label": 26
+    },
+    {
+        "image_id": 1010196000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010196/rgb/010196_000004.png",
+        "caption": "Let's move this blue file down.",
+        "bbox": [
+            0.3921875,
+            0.5981481481481481,
+            0.3416666666666667,
+            0.21666666666666667
+        ],
+        "label": 166
+    },
+    {
+        "image_id": 1010132000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010132/rgb/010132_000003.png",
+        "caption": "Let's move the black security face to the left together.",
+        "bbox": [
+            0.5747395833333333,
+            0.3939814814814815,
+            0.09114583333333333,
+            0.17685185185185184
+        ],
+        "label": 176
+    },
+    {
+        "image_id": 1010145000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010145/rgb/010145_000001.png",
+        "caption": "Can you move the white laser rangefinder down?",
+        "bbox": [
+            0.671875,
+            0.4393518518518518,
+            0.035416666666666666,
+            0.06944444444444445
+        ],
+        "label": 16
+    },
+    {
+        "image_id": 1010278000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010278/rgb/010278_000004.png",
+        "caption": "Can you help me move this monkey wrench upwards?",
+        "bbox": [
+            0.7255208333333333,
+            0.4444444444444444,
+            0.12708333333333333,
+            0.046296296296296294
+        ],
+        "label": 21
+    },
+    {
+        "image_id": 1010296000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010296/rgb/010296_000005.png",
+        "caption": "Let's move the box tape downwards together.",
+        "bbox": [
+            0.6088541666666667,
+            0.47175925925925927,
+            0.06666666666666667,
+            0.09166666666666666
+        ],
+        "label": 151
+    },
+    {
+        "image_id": 1010293000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010293/rgb/010293_000004.png",
+        "caption": "Let's put away this white label paper together.",
+        "bbox": [
+            0.6166666666666667,
+            0.7138888888888889,
+            0.11770833333333333,
+            0.1425925925925926
+        ],
+        "label": 92
+    },
+    {
+        "image_id": 1010187000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010187/rgb/010187_000003.png",
+        "caption": "Let's move this set anchor to the right.",
+        "bbox": [
+            0.7572916666666667,
+            0.5268518518518519,
+            0.042708333333333334,
+            0.08518518518518518
+        ],
+        "label": 132
+    },
+    {
+        "image_id": 1010143000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010143/rgb/010143_000004.png",
+        "caption": "Please move that red grabhook to the left.",
+        "bbox": [
+            0.6953125,
+            0.6208333333333333,
+            0.06770833333333333,
+            0.05462962962962963
+        ],
+        "label": 5
+    },
+    {
+        "image_id": 1010238000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010238/rgb/010238_000002.png",
+        "caption": "Can you move the black axe?",
+        "bbox": [
+            0.784375,
+            0.5018518518518519,
+            0.23645833333333333,
+            0.2351851851851852
+        ],
+        "label": 79
+    },
+    {
+        "image_id": 1010123000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010123/rgb/010123_000002.png",
+        "caption": "Please move the gas mask downward.",
+        "bbox": [
+            0.44088541666666664,
+            0.5041666666666667,
+            0.07239583333333334,
+            0.09907407407407408
+        ],
+        "label": 173
+    },
+    {
+        "image_id": 1010194000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010194/rgb/010194_000005.png",
+        "caption": "Let's move the ice pack downward together.",
+        "bbox": [
+            0.50234375,
+            0.6106481481481482,
+            0.1359375,
+            0.0824074074074074
+        ],
+        "label": 156
+    },
+    {
+        "image_id": 1010269000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010269/rgb/010269_000001.png",
+        "caption": "Can you move the flow meter?",
+        "bbox": [
+            0.35494791666666664,
+            0.5574074074074075,
+            0.0359375,
+            0.11481481481481481
+        ],
+        "label": 110
+    },
+    {
+        "image_id": 1010206000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010206/rgb/010206_000002.png",
+        "caption": "Let's get that hinge handle out of the way together.",
+        "bbox": [
+            0.6838541666666667,
+            0.38981481481481484,
+            0.11875,
+            0.020370370370370372
+        ],
+        "label": 81
+    },
+    {
+        "image_id": 1010136000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010136/rgb/010136_000002.png",
+        "caption": "Could you help me move the work raincoat upwards?",
+        "bbox": [
+            0.5239583333333333,
+            0.5305555555555556,
+            0.12708333333333333,
+            0.17037037037037037
+        ],
+        "label": 184
+    },
+    {
+        "image_id": 1010192000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010192/rgb/010192_000001.png",
+        "caption": "Let's move the red twine to the right.",
+        "bbox": [
+            0.5190104166666667,
+            0.4601851851851852,
+            0.07864583333333333,
+            0.1685185185185185
+        ],
+        "label": 152
+    },
+    {
+        "image_id": 1010258000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010258/rgb/010258_000003.png",
+        "caption": "Let's move that brown brush to the right.",
+        "bbox": [
+            0.29661458333333335,
+            0.37916666666666665,
+            0.0578125,
+            0.062037037037037036
+        ],
+        "label": 29
+    },
+    {
+        "image_id": 1010263000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010263/rgb/010263_000004.png",
+        "caption": "Could you move that gray door stopper to the right?",
+        "bbox": [
+            0.5734375,
+            0.6708333333333333,
+            0.051041666666666666,
+            0.06574074074074074
+        ],
+        "label": 90
+    },
+    {
+        "image_id": 1010296000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010296/rgb/010296_000005.png",
+        "caption": "Can you move that white box cutter?",
+        "bbox": [
+            0.6666666666666666,
+            0.5782407407407407,
+            0.1,
+            0.06944444444444445
+        ],
+        "label": 164
+    },
+    {
+        "image_id": 1010262000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010262/rgb/010262_000005.png",
+        "caption": "Let's move that gray door stopper down.",
+        "bbox": [
+            0.8294270833333334,
+            0.48194444444444445,
+            0.05364583333333333,
+            0.06759259259259259
+        ],
+        "label": 90
+    },
+    {
+        "image_id": 1010288000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010288/rgb/010288_000002.png",
+        "caption": "Let's move that work light upwards.",
+        "bbox": [
+            0.7270833333333333,
+            0.5810185185185185,
+            0.16875,
+            0.09166666666666666
+        ],
+        "label": 183
+    },
+    {
+        "image_id": 1010216000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010216/rgb/010216_000003.png",
+        "caption": "Let's move that platinum pulley down together.",
+        "bbox": [
+            0.3690104166666667,
+            0.48564814814814816,
+            0.030729166666666665,
+            0.026851851851851852
+        ],
+        "label": 12
+    },
+    {
+        "image_id": 1010278000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010278/rgb/010278_000002.png",
+        "caption": "Please remove that pipe ranch.",
+        "bbox": [
+            0.7786458333333334,
+            0.5092592592592593,
+            0.16979166666666667,
+            0.09259259259259259
+        ],
+        "label": 66
+    },
+    {
+        "image_id": 1010306000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010306/rgb/010306_000002.png",
+        "caption": "Could you help me move the yellow ground rod connector upward?",
+        "bbox": [
+            0.72890625,
+            0.6939814814814815,
+            0.0421875,
+            0.049074074074074076
+        ],
+        "label": 56
+    },
+    {
+        "image_id": 1010138000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010138/rgb/010138_000002.png",
+        "caption": "Let's move that megaphone upward together.",
+        "bbox": [
+            0.6375,
+            0.5231481481481481,
+            0.10729166666666666,
+            0.14814814814814814
+        ],
+        "label": 172
+    },
+    {
+        "image_id": 1010127000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010127/rgb/010127_000002.png",
+        "caption": "Let's take that megaphone away.",
+        "bbox": [
+            0.47161458333333334,
+            0.5907407407407408,
+            0.1484375,
+            0.22407407407407406
+        ],
+        "label": 172
+    },
+    {
+        "image_id": 1010278000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010278/rgb/010278_000002.png",
+        "caption": "Let's move this white laser range finder down together.",
+        "bbox": [
+            0.6098958333333333,
+            0.45092592592592595,
+            0.053125,
+            0.07407407407407407
+        ],
+        "label": 16
+    },
+    {
+        "image_id": 1010201000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010201/rgb/010201_000001.png",
+        "caption": "Could you help me move that pipe expander to the left?",
+        "bbox": [
+            0.3494791666666667,
+            0.8027777777777778,
+            0.14270833333333333,
+            0.2
+        ],
+        "label": 69
+    },
+    {
+        "image_id": 1010144000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010144/rgb/010144_000005.png",
+        "caption": "Can you help me move the ax downward?",
+        "bbox": [
+            0.38619791666666664,
+            0.5583333333333333,
+            0.24739583333333334,
+            0.3037037037037037
+        ],
+        "label": 79
+    },
+    {
+        "image_id": 1010280000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010280/rgb/010280_000004.png",
+        "caption": "Let's move the black monkey wrench to the left together.",
+        "bbox": [
+            0.66015625,
+            0.4740740740740741,
+            0.0828125,
+            0.1111111111111111
+        ],
+        "label": 21
+    },
+    {
+        "image_id": 1010226000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010226/rgb/010226_000005.png",
+        "caption": "Let's move that gray duct tape upward together.",
+        "bbox": [
+            0.5692708333333333,
+            0.6333333333333333,
+            0.06041666666666667,
+            0.1111111111111111
+        ],
+        "label": 11
+    },
+    {
+        "image_id": 1010254000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010254/rgb/010254_000003.png",
+        "caption": "Can you help me move the riveter to the right?",
+        "bbox": [
+            0.43203125,
+            0.5310185185185186,
+            0.10260416666666666,
+            0.19907407407407407
+        ],
+        "label": 17
+    },
+    {
+        "image_id": 1010249000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010249/rgb/010249_000005.png",
+        "caption": "Let's move that silver pulley upward together.",
+        "bbox": [
+            0.5479166666666667,
+            0.6458333333333334,
+            0.019791666666666666,
+            0.017592592592592594
+        ],
+        "label": 12
+    },
+    {
+        "image_id": 1010228000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010228/rgb/010228_000003.png",
+        "caption": "Could you help me move that gray hex wrench upwards?",
+        "bbox": [
+            0.7091145833333333,
+            0.5578703703703703,
+            0.059895833333333336,
+            0.06018518518518518
+        ],
+        "label": 49
+    },
+    {
+        "image_id": 1010281000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010281/rgb/010281_000005.png",
+        "caption": "Can you help me move these silver pliers upward?",
+        "bbox": [
+            0.65,
+            0.6319444444444444,
+            0.09479166666666666,
+            0.05277777777777778
+        ],
+        "label": 71
+    },
+    {
+        "image_id": 1010183000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010183/rgb/010183_000003.png",
+        "caption": "Let's move this silver sling hook to the right together.",
+        "bbox": [
+            0.3106770833333333,
+            0.42083333333333334,
+            0.058854166666666666,
+            0.05648148148148148
+        ],
+        "label": 37
+    },
+    {
+        "image_id": 1010284000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010284/rgb/010284_000005.png",
+        "caption": "Can you move this white megaphone upwards?",
+        "bbox": [
+            0.5059895833333333,
+            0.6458333333333334,
+            0.13072916666666667,
+            0.1787037037037037
+        ],
+        "label": 172
+    },
+    {
+        "image_id": 1010252000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010252/rgb/010252_000004.png",
+        "caption": "Move the black pipe cutter to the left.",
+        "bbox": [
+            0.8083333333333333,
+            0.5851851851851851,
+            0.12083333333333333,
+            0.05740740740740741
+        ],
+        "label": 68
+    },
+    {
+        "image_id": 1010284000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010284/rgb/010284_000005.png",
+        "caption": "Can you move that red fire extinguisher?",
+        "bbox": [
+            0.5166666666666667,
+            0.3402777777777778,
+            0.04583333333333333,
+            0.23425925925925925
+        ],
+        "label": 177
+    },
+    {
+        "image_id": 1010235000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010235/rgb/010235_000002.png",
+        "caption": "Let's move that blue paint roller upwards.",
+        "bbox": [
+            0.5578125,
+            0.6125,
+            0.0625,
+            0.05648148148148148
+        ],
+        "label": 195
+    },
+    {
+        "image_id": 1010197000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010197/rgb/010197_000003.png",
+        "caption": "Let's move the gray double-ended spanner to the left.",
+        "bbox": [
+            0.31302083333333336,
+            0.41203703703703703,
+            0.046875,
+            0.040740740740740744
+        ],
+        "label": 40
+    },
+    {
+        "image_id": 1010242000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010242/rgb/010242_000001.png",
+        "caption": "Let's move the silver spanner to the left together.",
+        "bbox": [
+            0.8317708333333333,
+            0.6185185185185185,
+            0.10729166666666666,
+            0.1388888888888889
+        ],
+        "label": 36
+    },
+    {
+        "image_id": 1010224000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010224/rgb/010224_000003.png",
+        "caption": "Can you help me move that black hydraulic cutter to the right?",
+        "bbox": [
+            0.565625,
+            0.4652777777777778,
+            0.2,
+            0.3175925925925926
+        ],
+        "label": 47
+    },
+    {
+        "image_id": 1010134000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010134/rgb/010134_000003.png",
+        "caption": "Find the object 171.",
+        "bbox": [
+            0.5583333333333333,
+            0.6662037037037037,
+            0.016666666666666666,
+            0.025
+        ],
+        "label": 171
+    },
+    {
+        "image_id": 1010254000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010254/rgb/010254_000005.png",
+        "caption": "Can you move that yellow wallpapering knife?",
+        "bbox": [
+            0.6518229166666667,
+            0.5064814814814815,
+            0.0640625,
+            0.08888888888888889
+        ],
+        "label": 13
+    },
+    {
+        "image_id": 1010196000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010196/rgb/010196_000002.png",
+        "caption": "Can you help me move this white cutter to the left?",
+        "bbox": [
+            0.5786458333333333,
+            0.5680555555555555,
+            0.11770833333333333,
+            0.025
+        ],
+        "label": 164
+    },
+    {
+        "image_id": 1010319000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010319/rgb/010319_000002.png",
+        "caption": "Let's move the white hex wrench to the right together.",
+        "bbox": [
+            0.5658854166666667,
+            0.5268518518518519,
+            0.0234375,
+            0.04259259259259259
+        ],
+        "label": 49
+    },
+    {
+        "image_id": 1010198000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010198/rgb/010198_000004.png",
+        "caption": "Move the blue drill jig upwards.",
+        "bbox": [
+            0.4276041666666667,
+            0.5115740740740741,
+            0.11875,
+            0.1712962962962963
+        ],
+        "label": 15
+    },
+    {
+        "image_id": 1010181000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010181/rgb/010181_000005.png",
+        "caption": "Let's move that white lead inhaler down together.",
+        "bbox": [
+            0.32578125,
+            0.4162037037037037,
+            0.0546875,
+            0.0824074074074074
+        ],
+        "label": 8
+    },
+    {
+        "image_id": 1010225000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010225/rgb/010225_000001.png",
+        "caption": "Let's move this silver double-ended spanner downward together.",
+        "bbox": [
+            0.47552083333333334,
+            0.6319444444444444,
+            0.0625,
+            0.11388888888888889
+        ],
+        "label": 40
+    },
+    {
+        "image_id": 1010300000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010300/rgb/010300_000002.png",
+        "caption": "Please move that red tape cutter to the left.",
+        "bbox": [
+            0.24765625,
+            0.5675925925925925,
+            0.043229166666666666,
+            0.1037037037037037
+        ],
+        "label": 165
+    },
+    {
+        "image_id": 1010243000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010243/rgb/010243_000004.png",
+        "caption": "Please move that silver pulley upward.",
+        "bbox": [
+            0.5671875,
+            0.7152777777777778,
+            0.010416666666666666,
+            0.03981481481481482
+        ],
+        "label": 12
+    },
+    {
+        "image_id": 1010228000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010228/rgb/010228_000005.png",
+        "caption": "Let's move that silver pipe bender to the left.",
+        "bbox": [
+            0.4557291666666667,
+            0.3699074074074074,
+            0.05520833333333333,
+            0.05648148148148148
+        ],
+        "label": 67
+    },
+    {
+        "image_id": 1010233000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010233/rgb/010233_000001.png",
+        "caption": "Could you move the red glass absorber down?",
+        "bbox": [
+            0.71015625,
+            0.47129629629629627,
+            0.06510416666666667,
+            0.12962962962962962
+        ],
+        "label": 46
+    },
+    {
+        "image_id": 1010278000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010278/rgb/010278_000005.png",
+        "caption": "Can you move this monkey wrench to the right?",
+        "bbox": [
+            0.4317708333333333,
+            0.562962962962963,
+            0.14895833333333333,
+            0.1685185185185185
+        ],
+        "label": 21
+    },
+    {
+        "image_id": 1010266000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010266/rgb/010266_000001.png",
+        "caption": "Please take away this silver door stopper",
+        "bbox": [
+            0.7513020833333334,
+            0.5634259259259259,
+            0.021354166666666667,
+            0.0787037037037037
+        ],
+        "label": 90
+    },
+    {
+        "image_id": 1010168000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010168/rgb/010168_000003.png",
+        "caption": "Let's move the silver monkey wrench to the left together.",
+        "bbox": [
+            0.7791666666666667,
+            0.34675925925925927,
+            0.125,
+            0.058333333333333334
+        ],
+        "label": 21
+    },
+    {
+        "image_id": 1010280000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010280/rgb/010280_000001.png",
+        "caption": "Let's move the silver pressure flag down.",
+        "bbox": [
+            0.5380208333333333,
+            0.7962962962962963,
+            0.040625,
+            0.12407407407407407
+        ],
+        "label": 18
+    },
+    {
+        "image_id": 1010217000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010217/rgb/010217_000005.png",
+        "caption": "Let's move that brown plane upward together.",
+        "bbox": [
+            0.3294270833333333,
+            0.3976851851851852,
+            0.0328125,
+            0.08611111111111111
+        ],
+        "label": 10
+    },
+    {
+        "image_id": 1010212000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010212/rgb/010212_000005.png",
+        "caption": "Let's move the white Styrofoam box downward together.",
+        "bbox": [
+            0.22005208333333334,
+            0.6537037037037037,
+            0.20364583333333333,
+            0.35555555555555557
+        ],
+        "label": 153
+    },
+    {
+        "image_id": 1010289000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010289/rgb/010289_000002.png",
+        "caption": "Let\u2019s move that gold mold spring together.",
+        "bbox": [
+            0.6322916666666667,
+            0.5532407407407407,
+            0.007291666666666667,
+            0.01574074074074074
+        ],
+        "label": 94
+    },
+    {
+        "image_id": 1010207000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010207/rgb/010207_000005.png",
+        "caption": "Please move that slide rail down.",
+        "bbox": [
+            0.5619791666666667,
+            0.3819444444444444,
+            0.19166666666666668,
+            0.15092592592592594
+        ],
+        "label": 112
+    },
+    {
+        "image_id": 1010231000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010231/rgb/010231_000002.png",
+        "caption": "Let's move the black bending tongs upwards.",
+        "bbox": [
+            0.6888020833333334,
+            0.6527777777777778,
+            0.07239583333333334,
+            0.34444444444444444
+        ],
+        "label": 54
+    },
+    {
+        "image_id": 1010255000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010255/rgb/010255_000005.png",
+        "caption": "Can you help me move this blue tile cutter upwards?",
+        "bbox": [
+            0.7244791666666667,
+            0.3907407407407407,
+            0.24895833333333334,
+            0.2722222222222222
+        ],
+        "label": 61
+    },
+    {
+        "image_id": 1010294000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010294/rgb/010294_000001.png",
+        "caption": "Could you help me move that white saw blade down?",
+        "bbox": [
+            0.5591145833333333,
+            0.7453703703703703,
+            0.07864583333333333,
+            0.03333333333333333
+        ],
+        "label": 126
+    },
+    {
+        "image_id": 1010142000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010142/rgb/010142_000005.png",
+        "caption": "Could you help me move that work raincoat to the right?",
+        "bbox": [
+            0.54296875,
+            0.5138888888888888,
+            0.1046875,
+            0.12962962962962962
+        ],
+        "label": 184
+    },
+    {
+        "image_id": 1010164000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010164/rgb/010164_000004.png",
+        "caption": "Let's take that black hook spanner upwards together.",
+        "bbox": [
+            0.8302083333333333,
+            0.45416666666666666,
+            0.0625,
+            0.049074074074074076
+        ],
+        "label": 80
+    },
+    {
+        "image_id": 1010182000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010182/rgb/010182_000004.png",
+        "caption": "Let's move the black multimeter to the left.",
+        "bbox": [
+            0.7888020833333333,
+            0.4398148148148148,
+            0.08697916666666666,
+            0.06111111111111111
+        ],
+        "label": 20
+    },
+    {
+        "image_id": 1010245000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010245/rgb/010245_000004.png",
+        "caption": "Let's move the bolt cutters down.",
+        "bbox": [
+            0.41171875,
+            0.4393518518518518,
+            0.11510416666666666,
+            0.09907407407407408
+        ],
+        "label": 26
+    },
+    {
+        "image_id": 1010167000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010167/rgb/010167_000003.png",
+        "caption": "Can you help me move the red flyer cella to the right?",
+        "bbox": [
+            0.62265625,
+            0.6032407407407407,
+            0.20052083333333334,
+            0.11203703703703703
+        ],
+        "label": 74
+    },
+    {
+        "image_id": 1010269000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010269/rgb/010269_000002.png",
+        "caption": "Can you help me move these black caster wheels?",
+        "bbox": [
+            0.30182291666666666,
+            0.5356481481481481,
+            0.03802083333333333,
+            0.06388888888888888
+        ],
+        "label": 102
+    },
+    {
+        "image_id": 1010199000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010199/rgb/010199_000005.png",
+        "caption": "Let's move the gray riveter to the right together.",
+        "bbox": [
+            0.58828125,
+            0.3939814814814815,
+            0.12864583333333332,
+            0.0824074074074074
+        ],
+        "label": 17
+    },
+    {
+        "image_id": 1010274000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010274/rgb/010274_000004.png",
+        "caption": "Can you help me move that gray saw down?",
+        "bbox": [
+            0.5802083333333333,
+            0.6347222222222222,
+            0.2375,
+            0.13796296296296295
+        ],
+        "label": 65
+    },
+    {
+        "image_id": 1010278000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010278/rgb/010278_000002.png",
+        "caption": "Can you help me move this black monkey wrench upwards?",
+        "bbox": [
+            0.40338541666666666,
+            0.5638888888888889,
+            0.19427083333333334,
+            0.12222222222222222
+        ],
+        "label": 21
+    },
+    {
+        "image_id": 1010256000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010256/rgb/010256_000001.png",
+        "caption": "Can you move the glass absorber?",
+        "bbox": [
+            0.6270833333333333,
+            0.6851851851851852,
+            0.10520833333333333,
+            0.21481481481481482
+        ],
+        "label": 46
+    },
+    {
+        "image_id": 1010209000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010209/rgb/010209_000001.png",
+        "caption": "Let's move this blue liquid pool upwards.",
+        "bbox": [
+            0.5606770833333333,
+            0.4273148148148148,
+            0.0203125,
+            0.13796296296296295
+        ],
+        "label": 115
+    },
+    {
+        "image_id": 1010215000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010215/rgb/010215_000004.png",
+        "caption": "Let's move the blue Danpla box upwards together.",
+        "bbox": [
+            0.6263020833333334,
+            0.33287037037037037,
+            0.2296875,
+            0.287962962962963
+        ],
+        "label": 148
+    },
+    {
+        "image_id": 1010283000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010283/rgb/010283_000003.png",
+        "caption": "Let's move the yellow infrared thermometer to the right.",
+        "bbox": [
+            0.52890625,
+            0.7518518518518519,
+            0.05572916666666667,
+            0.11851851851851852
+        ],
+        "label": 52
+    },
+    {
+        "image_id": 1010170000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010170/rgb/010170_000003.png",
+        "caption": "Move this silver vise grip down.",
+        "bbox": [
+            0.7658854166666667,
+            0.5402777777777777,
+            0.04739583333333333,
+            0.04722222222222222
+        ],
+        "label": 23
+    },
+    {
+        "image_id": 1010158000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010158/rgb/010158_000005.png",
+        "caption": "Can you help me move that cardboard box?",
+        "bbox": [
+            0.5872395833333334,
+            0.4287037037037037,
+            0.2713541666666667,
+            0.25
+        ],
+        "label": 161
+    },
+    {
+        "image_id": 1010271000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010271/rgb/010271_000002.png",
+        "caption": "Can you help me move this black screwdriver down?",
+        "bbox": [
+            0.6190104166666667,
+            0.7393518518518518,
+            0.10677083333333333,
+            0.13240740740740742
+        ],
+        "label": 14
+    },
+    {
+        "image_id": 1010157000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010157/rgb/010157_000003.png",
+        "caption": "Can you help me move that silver beaker?",
+        "bbox": [
+            0.64765625,
+            0.625,
+            0.050520833333333334,
+            0.046296296296296294
+        ],
+        "label": 160
+    },
+    {
+        "image_id": 1010300000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010300/rgb/010300_000005.png",
+        "caption": "Let's move the yellow paper box upward together.",
+        "bbox": [
+            0.47630208333333335,
+            0.4597222222222222,
+            0.20052083333333334,
+            0.23981481481481481
+        ],
+        "label": 161
+    },
+    {
+        "image_id": 1010150000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010150/rgb/010150_000004.png",
+        "caption": "Let's move that gray pipe expander upwards together.",
+        "bbox": [
+            0.76484375,
+            0.4398148148148148,
+            0.07864583333333333,
+            0.09444444444444444
+        ],
+        "label": 69
+    },
+    {
+        "image_id": 1010253000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010253/rgb/010253_000004.png",
+        "caption": "Let's move this drill jig to the left together.",
+        "bbox": [
+            0.5348958333333333,
+            0.6819444444444445,
+            0.096875,
+            0.20833333333333334
+        ],
+        "label": 15
+    },
+    {
+        "image_id": 1010121000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010121/rgb/010121_000004.png",
+        "caption": "Let's move these red pliers to the right together.",
+        "bbox": [
+            0.21171875,
+            0.5893518518518519,
+            0.0734375,
+            0.05648148148148148
+        ],
+        "label": 71
+    },
+    {
+        "image_id": 1010222000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010222/rgb/010222_000005.png",
+        "caption": "Could you help me move that maroon plane down?",
+        "bbox": [
+            0.4200520833333333,
+            0.32916666666666666,
+            0.05677083333333333,
+            0.06388888888888888
+        ],
+        "label": 10
+    },
+    {
+        "image_id": 1010171000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010171/rgb/010171_000005.png",
+        "caption": "Can you move that red pipe ranch upwards?",
+        "bbox": [
+            0.33697916666666666,
+            0.5259259259259259,
+            0.06666666666666667,
+            0.1425925925925926
+        ],
+        "label": 66
+    },
+    {
+        "image_id": 1010198000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010198/rgb/010198_000003.png",
+        "caption": "Please move the gray nippers downwards.",
+        "bbox": [
+            0.47994791666666664,
+            0.44537037037037036,
+            0.06510416666666667,
+            0.08888888888888889
+        ],
+        "label": 9
+    },
+    {
+        "image_id": 1010129000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010129/rgb/010129_000005.png",
+        "caption": "Let's move that gas mask downward together.",
+        "bbox": [
+            0.3609375,
+            0.6638888888888889,
+            0.07083333333333333,
+            0.1037037037037037
+        ],
+        "label": 173
+    },
+    {
+        "image_id": 1010299000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010299/rgb/010299_000004.png",
+        "caption": "Let's move that ivory air cap upwards.",
+        "bbox": [
+            0.2484375,
+            0.5861111111111111,
+            0.08229166666666667,
+            0.13703703703703704
+        ],
+        "label": 157
+    },
+    {
+        "image_id": 1010278000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010278/rgb/010278_000004.png",
+        "caption": "Let's move that gray drill jig downward together.",
+        "bbox": [
+            0.6190104166666667,
+            0.45740740740740743,
+            0.1140625,
+            0.12407407407407407
+        ],
+        "label": 15
+    },
+    {
+        "image_id": 1010307000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010307/rgb/010307_000001.png",
+        "caption": "Can you help me move the silver pipe cutter downwards?",
+        "bbox": [
+            0.3619791666666667,
+            0.6430555555555556,
+            0.08333333333333333,
+            0.06759259259259259
+        ],
+        "label": 68
+    },
+    {
+        "image_id": 1010214000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010214/rgb/010214_000003.png",
+        "caption": "Let's get that silvery white hand hole fun down.",
+        "bbox": [
+            0.5458333333333333,
+            0.5236111111111111,
+            0.0625,
+            0.04351851851851852
+        ],
+        "label": 167
+    },
+    {
+        "image_id": 1010162000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010162/rgb/010162_000003.png",
+        "caption": "Please move this blue tape measure upwards.",
+        "bbox": [
+            0.15364583333333334,
+            0.6902777777777778,
+            0.125,
+            0.09537037037037037
+        ],
+        "label": 163
+    },
+    {
+        "image_id": 1010317000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010317/rgb/010317_000002.png",
+        "caption": "Please move the yellow force upward.",
+        "bbox": [
+            0.23489583333333333,
+            0.662962962962963,
+            0.065625,
+            0.05740740740740741
+        ],
+        "label": 18
+    },
+    {
+        "image_id": 1010306000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010306/rgb/010306_000004.png",
+        "caption": "Could you help me move the welding holder to the left?",
+        "bbox": [
+            0.8106770833333333,
+            0.49537037037037035,
+            0.12135416666666667,
+            0.10740740740740741
+        ],
+        "label": 44
+    },
+    {
+        "image_id": 1010136000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010136/rgb/010136_000005.png",
+        "caption": "Can you help me move that crimson lavacorn to the left?",
+        "bbox": [
+            0.6135416666666667,
+            0.3902777777777778,
+            0.12708333333333333,
+            0.3138888888888889
+        ],
+        "label": 178
+    },
+    {
+        "image_id": 1010264000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010264/rgb/010264_000003.png",
+        "caption": "Could you help me move that silver door stopper upwards?",
+        "bbox": [
+            0.7559895833333333,
+            0.4976851851851852,
+            0.0328125,
+            0.0712962962962963
+        ],
+        "label": 90
+    },
+    {
+        "image_id": 1010283000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010283/rgb/010283_000003.png",
+        "caption": "Can you move that silver pipe cutter down?",
+        "bbox": [
+            0.6841145833333333,
+            0.5287037037037037,
+            0.03177083333333333,
+            0.07222222222222222
+        ],
+        "label": 68
+    },
+    {
+        "image_id": 1010238000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010238/rgb/010238_000001.png",
+        "caption": "Let's move the blue height gauge to the right together.",
+        "bbox": [
+            0.6658854166666667,
+            0.5092592592592593,
+            0.17239583333333333,
+            0.08518518518518518
+        ],
+        "label": 76
+    },
+    {
+        "image_id": 1010181000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010181/rgb/010181_000004.png",
+        "caption": "Can you help me move the black stopwatch downwards?",
+        "bbox": [
+            0.5424479166666667,
+            0.5666666666666667,
+            0.04739583333333333,
+            0.05555555555555555
+        ],
+        "label": 179
+    },
+    {
+        "image_id": 1010137000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010137/rgb/010137_000005.png",
+        "caption": "Let's move this glove down together.",
+        "bbox": [
+            0.5026041666666666,
+            0.7638888888888888,
+            0.051041666666666666,
+            0.16111111111111112
+        ],
+        "label": 185
+    },
+    {
+        "image_id": 1010255000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010255/rgb/010255_000002.png",
+        "caption": "Let's move this yellow wallpapering knife.",
+        "bbox": [
+            0.3541666666666667,
+            0.3962962962962963,
+            0.06770833333333333,
+            0.12407407407407407
+        ],
+        "label": 13
+    },
+    {
+        "image_id": 1010271000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010271/rgb/010271_000002.png",
+        "caption": "Let's move that silver hydraulic cutter to the right.",
+        "bbox": [
+            0.6223958333333334,
+            0.4648148148148148,
+            0.16354166666666667,
+            0.3592592592592593
+        ],
+        "label": 47
+    },
+    {
+        "image_id": 1010120000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010120/rgb/010120_000001.png",
+        "caption": "Can you help me move the black impact wrench down?",
+        "bbox": [
+            0.840625,
+            0.562037037037037,
+            0.18333333333333332,
+            0.12777777777777777
+        ],
+        "label": 51
+    },
+    {
+        "image_id": 1010252000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010252/rgb/010252_000005.png",
+        "caption": "Could you move this ground rod connector to the right?",
+        "bbox": [
+            0.37578125,
+            0.2875,
+            0.025520833333333333,
+            0.025
+        ],
+        "label": 56
+    },
+    {
+        "image_id": 1010157000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010157/rgb/010157_000004.png",
+        "caption": "Can you help me get this silver hand hole fun down?",
+        "bbox": [
+            0.2872395833333333,
+            0.6166666666666667,
+            0.050520833333333334,
+            0.04259259259259259
+        ],
+        "label": 167
+    },
+    {
+        "image_id": 1010225000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010225/rgb/010225_000005.png",
+        "caption": "Let's move the silver pliers to the right together.",
+        "bbox": [
+            0.5588541666666667,
+            0.8013888888888889,
+            0.084375,
+            0.0824074074074074
+        ],
+        "label": 71
+    },
+    {
+        "image_id": 1010202000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010202/rgb/010202_000002.png",
+        "caption": "Let's move that silver heater downward together.",
+        "bbox": [
+            0.38697916666666665,
+            0.5546296296296296,
+            0.178125,
+            0.23333333333333334
+        ],
+        "label": 42
+    },
+    {
+        "image_id": 1010223000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010223/rgb/010223_000001.png",
+        "caption": "Let's get this silver vernier caliper out of the way together.",
+        "bbox": [
+            0.36796875,
+            0.3523148148148148,
+            0.06302083333333333,
+            0.06574074074074074
+        ],
+        "label": 25
+    },
+    {
+        "image_id": 1010148000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010148/rgb/010148_000005.png",
+        "caption": "Could you move that ocher plastering knife to the left?",
+        "bbox": [
+            0.5510416666666667,
+            0.31666666666666665,
+            0.13229166666666667,
+            0.13333333333333333
+        ],
+        "label": 22
+    },
+    {
+        "image_id": 1010269000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010269/rgb/010269_000001.png",
+        "caption": "Please move that white painting masking tape to the left.",
+        "bbox": [
+            0.33932291666666664,
+            0.7393518518518518,
+            0.07135416666666666,
+            0.11944444444444445
+        ],
+        "label": 91
+    },
+    {
+        "image_id": 1010132000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010132/rgb/010132_000001.png",
+        "caption": "Can you help me move these white earmuffs down?",
+        "bbox": [
+            0.6440104166666667,
+            0.6731481481481482,
+            0.09739583333333333,
+            0.1685185185185185
+        ],
+        "label": 169
+    },
+    {
+        "image_id": 1010251000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010251/rgb/010251_000002.png",
+        "caption": "Let's move that pulley to the left together.",
+        "bbox": [
+            0.6513020833333333,
+            0.7050925925925926,
+            0.027604166666666666,
+            0.03981481481481482
+        ],
+        "label": 12
+    },
+    {
+        "image_id": 1010214000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010214/rgb/010214_000002.png",
+        "caption": "Let's move that blue Danpla box to the right.",
+        "bbox": [
+            0.49505208333333334,
+            0.33287037037037037,
+            0.23697916666666666,
+            0.29907407407407405
+        ],
+        "label": 148
+    },
+    {
+        "image_id": 1010282000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010282/rgb/010282_000003.png",
+        "caption": "Let's move those black bending tongs to the right.",
+        "bbox": [
+            0.3567708333333333,
+            0.5884259259259259,
+            0.11354166666666667,
+            0.27870370370370373
+        ],
+        "label": 54
+    },
+    {
+        "image_id": 1010307000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010307/rgb/010307_000004.png",
+        "caption": "Let's move these silver aviation scissors to the right together.",
+        "bbox": [
+            0.3143229166666667,
+            0.6925925925925925,
+            0.0546875,
+            0.13518518518518519
+        ],
+        "label": 78
+    },
+    {
+        "image_id": 1010228000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010228/rgb/010228_000001.png",
+        "caption": "Let's move the red wallpapering knife downwards.",
+        "bbox": [
+            0.8338541666666667,
+            0.6226851851851852,
+            0.221875,
+            0.15462962962962962
+        ],
+        "label": 13
+    },
+    {
+        "image_id": 1010172000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010172/rgb/010172_000004.png",
+        "caption": "Please move the heater to the right.",
+        "bbox": [
+            0.20520833333333333,
+            0.6175925925925926,
+            0.15625,
+            0.13518518518518519
+        ],
+        "label": 42
+    },
+    {
+        "image_id": 1010154000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010154/rgb/010154_000002.png",
+        "caption": "Let's move this red twine down together.",
+        "bbox": [
+            0.6197916666666666,
+            0.586574074074074,
+            0.08333333333333333,
+            0.18425925925925926
+        ],
+        "label": 152
+    },
+    {
+        "image_id": 1010225000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010225/rgb/010225_000003.png",
+        "caption": "Can you help me move the maroon plane to the right?",
+        "bbox": [
+            0.35390625,
+            0.500462962962963,
+            0.05364583333333333,
+            0.11018518518518519
+        ],
+        "label": 10
+    },
+    {
+        "image_id": 1010229000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010229/rgb/010229_000004.png",
+        "caption": "Let's move that white duct tape.",
+        "bbox": [
+            0.72109375,
+            0.387037037037037,
+            0.08697916666666666,
+            0.1037037037037037
+        ],
+        "label": 11
+    },
+    {
+        "image_id": 1010302000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010302/rgb/010302_000001.png",
+        "caption": "Can you move the infrared thermometer upwards?",
+        "bbox": [
+            0.59609375,
+            0.6212962962962963,
+            0.06302083333333333,
+            0.08148148148148149
+        ],
+        "label": 52
+    },
+    {
+        "image_id": 1010234000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010234/rgb/010234_000001.png",
+        "caption": "Let's move that white duct tape to the left.",
+        "bbox": [
+            0.7098958333333333,
+            0.4324074074074074,
+            0.06666666666666667,
+            0.0962962962962963
+        ],
+        "label": 11
+    },
+    {
+        "image_id": 1010274000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010274/rgb/010274_000002.png",
+        "caption": "Let's move that black screwdriver upwards.",
+        "bbox": [
+            0.8942708333333333,
+            0.5125,
+            0.20520833333333333,
+            0.12685185185185185
+        ],
+        "label": 14
+    },
+    {
+        "image_id": 1010149000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010149/rgb/010149_000005.png",
+        "caption": "Let's move that yellow stripper to the left.",
+        "bbox": [
+            0.5544270833333333,
+            0.41435185185185186,
+            0.0609375,
+            0.06759259259259259
+        ],
+        "label": 35
+    },
+    {
+        "image_id": 1010302000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010302/rgb/010302_000004.png",
+        "caption": "Let's move that silver double-ended spanner upward together.",
+        "bbox": [
+            0.7763020833333333,
+            0.4708333333333333,
+            0.0671875,
+            0.05092592592592592
+        ],
+        "label": 40
+    },
+    {
+        "image_id": 1010297000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010297/rgb/010297_000004.png",
+        "caption": "Let's move the white ice pack to the left.",
+        "bbox": [
+            0.4236979166666667,
+            0.7851851851851852,
+            0.10260416666666666,
+            0.1388888888888889
+        ],
+        "label": 156
+    },
+    {
+        "image_id": 1010180000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010180/rgb/010180_000003.png",
+        "caption": "Let's move the red fire extinguisher to the right together.",
+        "bbox": [
+            0.5479166666666667,
+            0.40694444444444444,
+            0.059375,
+            0.1675925925925926
+        ],
+        "label": 177
+    },
+    {
+        "image_id": 1010318000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010318/rgb/010318_000005.png",
+        "caption": "Let's move the pipe bender downwards.",
+        "bbox": [
+            0.5041666666666667,
+            0.2722222222222222,
+            0.05416666666666667,
+            0.10185185185185185
+        ],
+        "label": 67
+    },
+    {
+        "image_id": 1010301000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010301/rgb/010301_000003.png",
+        "caption": "Can you move the white cutter knife upwards?",
+        "bbox": [
+            0.5955729166666667,
+            0.7337962962962963,
+            0.050520833333333334,
+            0.14907407407407408
+        ],
+        "label": 164
+    },
+    {
+        "image_id": 1010274000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010274/rgb/010274_000002.png",
+        "caption": "Let's move that silver chain saw.",
+        "bbox": [
+            0.64375,
+            0.3111111111111111,
+            0.21145833333333333,
+            0.22037037037037038
+        ],
+        "label": 59
+    },
+    {
+        "image_id": 1010177000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010177/rgb/010177_000003.png",
+        "caption": "Let's move the black compass downwards.",
+        "bbox": [
+            0.6278645833333333,
+            0.6069444444444444,
+            0.0171875,
+            0.025
+        ],
+        "label": 171
+    },
+    {
+        "image_id": 1010296000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010296/rgb/010296_000001.png",
+        "caption": "Let's move this white label printer down together.",
+        "bbox": [
+            0.5315104166666667,
+            0.7388888888888889,
+            0.15364583333333334,
+            0.1111111111111111
+        ],
+        "label": 149
+    },
+    {
+        "image_id": 1010208000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010208/rgb/010208_000004.png",
+        "caption": "Can you help me move that white silicone sealant down?",
+        "bbox": [
+            0.46822916666666664,
+            0.4060185185185185,
+            0.14479166666666668,
+            0.09351851851851851
+        ],
+        "label": 113
+    },
+    {
+        "image_id": 1010127000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010127/rgb/010127_000003.png",
+        "caption": "Let's get rid of those ocher work raincoats together.",
+        "bbox": [
+            0.4518229166666667,
+            0.49398148148148147,
+            0.12135416666666667,
+            0.15092592592592594
+        ],
+        "label": 184
+    },
+    {
+        "image_id": 1010312000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010312/rgb/010312_000001.png",
+        "caption": "Could you move the gray cement stirrer to the left?",
+        "bbox": [
+            0.35104166666666664,
+            0.3837962962962963,
+            0.17708333333333334,
+            0.08611111111111111
+        ],
+        "label": 38
+    },
+    {
+        "image_id": 1010149000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010149/rgb/010149_000005.png",
+        "caption": "Can you move that O-ring puller downward?",
+        "bbox": [
+            0.5604166666666667,
+            0.5152777777777777,
+            0.11666666666666667,
+            0.04722222222222222
+        ],
+        "label": 43
+    },
+    {
+        "image_id": 1010126000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010126/rgb/010126_000003.png",
+        "caption": "Can you help me move the black safety face to the left?",
+        "bbox": [
+            0.5192708333333333,
+            0.6199074074074075,
+            0.128125,
+            0.25462962962962965
+        ],
+        "label": 176
+    },
+    {
+        "image_id": 1010202000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010202/rgb/010202_000001.png",
+        "caption": "Move the silver bolt cutters downward.",
+        "bbox": [
+            0.621875,
+            0.4638888888888889,
+            0.030208333333333334,
+            0.08518518518518518
+        ],
+        "label": 26
+    },
+    {
+        "image_id": 1010294000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010294/rgb/010294_000003.png",
+        "caption": "Can you move that white corner bead down?",
+        "bbox": [
+            0.6565104166666667,
+            0.49398148148148147,
+            0.09739583333333333,
+            0.03611111111111111
+        ],
+        "label": 128
+    },
+    {
+        "image_id": 1010261000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010261/rgb/010261_000004.png",
+        "caption": "Could you help me move the white coil spring upwards?",
+        "bbox": [
+            0.7049479166666667,
+            0.43703703703703706,
+            0.034895833333333334,
+            0.08333333333333333
+        ],
+        "label": 129
+    },
+    {
+        "image_id": 1010305000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010305/rgb/010305_000001.png",
+        "caption": "Can you move that glass cutter?",
+        "bbox": [
+            0.7322916666666667,
+            0.5449074074074074,
+            0.0125,
+            0.11388888888888889
+        ],
+        "label": 45
+    },
+    {
+        "image_id": 1010146000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010146/rgb/010146_000002.png",
+        "caption": "Let's move this ax to the left together.",
+        "bbox": [
+            0.30052083333333335,
+            0.475,
+            0.16145833333333334,
+            0.29444444444444445
+        ],
+        "label": 79
+    },
+    {
+        "image_id": 1010263000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010263/rgb/010263_000003.png",
+        "caption": "Let's move this valve down.",
+        "bbox": [
+            0.5786458333333333,
+            0.6509259259259259,
+            0.06666666666666667,
+            0.02962962962962963
+        ],
+        "label": 99
+    },
+    {
+        "image_id": 1010281000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010281/rgb/010281_000005.png",
+        "caption": "Let's move that blue drill jig together.",
+        "bbox": [
+            0.7057291666666666,
+            0.39675925925925926,
+            0.10416666666666667,
+            0.10833333333333334
+        ],
+        "label": 15
+    },
+    {
+        "image_id": 1010283000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010283/rgb/010283_000005.png",
+        "caption": "Let's get that gray prybar down together.",
+        "bbox": [
+            0.3859375,
+            0.4648148148148148,
+            0.109375,
+            0.10740740740740741
+        ],
+        "label": 72
+    },
+    {
+        "image_id": 1010209000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010209/rgb/010209_000002.png",
+        "caption": "Please move those gray multi-purpose scissors downward.",
+        "bbox": [
+            0.6807291666666667,
+            0.6680555555555555,
+            0.11458333333333333,
+            0.04351851851851852
+        ],
+        "label": 89
+    },
+    {
+        "image_id": 1010251000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010251/rgb/010251_000004.png",
+        "caption": "Can you help me move this blue tile cutter to the right?",
+        "bbox": [
+            0.39791666666666664,
+            0.6152777777777778,
+            0.31354166666666666,
+            0.5564814814814815
+        ],
+        "label": 61
+    },
+    {
+        "image_id": 1010219000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010219/rgb/010219_000002.png",
+        "caption": "Could you help me move the screwdriver downwards?",
+        "bbox": [
+            0.5895833333333333,
+            0.43703703703703706,
+            0.08645833333333333,
+            0.06296296296296296
+        ],
+        "label": 14
+    },
+    {
+        "image_id": 1010273000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010273/rgb/010273_000003.png",
+        "caption": "Can you help me move the gray flyer to the right?",
+        "bbox": [
+            0.5380208333333333,
+            0.48518518518518516,
+            0.0625,
+            0.06851851851851852
+        ],
+        "label": 73
+    },
+    {
+        "image_id": 1010160000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010160/rgb/010160_000005.png",
+        "caption": "Can you move that red tape cutter upwards?",
+        "bbox": [
+            0.5653645833333333,
+            0.44583333333333336,
+            0.05572916666666667,
+            0.08055555555555556
+        ],
+        "label": 165
+    },
+    {
+        "image_id": 1010263000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010263/rgb/010263_000005.png",
+        "caption": "Can you move the shaft upwards?",
+        "bbox": [
+            0.6822916666666666,
+            0.6532407407407408,
+            0.06875,
+            0.041666666666666664
+        ],
+        "label": 108
+    },
+    {
+        "image_id": 1010214000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010214/rgb/010214_000002.png",
+        "caption": "Let's take that silver hand hole fun upwards together.",
+        "bbox": [
+            0.6111979166666667,
+            0.5615740740740741,
+            0.1078125,
+            0.05092592592592592
+        ],
+        "label": 167
+    },
+    {
+        "image_id": 1010313000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010313/rgb/010313_000005.png",
+        "caption": "Let's move the yellow mold spring upwards together.",
+        "bbox": [
+            0.6739583333333333,
+            0.48194444444444445,
+            0.013541666666666667,
+            0.01574074074074074
+        ],
+        "label": 94
+    },
+    {
+        "image_id": 1010174000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010174/rgb/010174_000002.png",
+        "caption": "Let's move that headlamp down.",
+        "bbox": [
+            0.5838541666666667,
+            0.6416666666666667,
+            0.022916666666666665,
+            0.06296296296296296
+        ],
+        "label": 186
+    },
+    {
+        "image_id": 1010140000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010140/rgb/010140_000003.png",
+        "caption": "Could you help me move that yellow work coat downstairs?",
+        "bbox": [
+            0.48333333333333334,
+            0.4597222222222222,
+            0.1375,
+            0.08796296296296297
+        ],
+        "label": 184
+    },
+    {
+        "image_id": 1010317000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010317/rgb/010317_000001.png",
+        "caption": "Can you help me move that white injection lead?",
+        "bbox": [
+            0.26588541666666665,
+            0.49675925925925923,
+            0.0890625,
+            0.04722222222222222
+        ],
+        "label": 136
+    },
+    {
+        "image_id": 1010166000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010166/rgb/010166_000005.png",
+        "caption": "Could you move this gray gear puller down?",
+        "bbox": [
+            0.7794270833333333,
+            0.2847222222222222,
+            0.0484375,
+            0.0787037037037037
+        ],
+        "label": 6
+    },
+    {
+        "image_id": 1010207000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010207/rgb/010207_000001.png",
+        "caption": "Can you move those silver roller bearings?",
+        "bbox": [
+            0.65703125,
+            0.624537037037037,
+            0.0578125,
+            0.08981481481481482
+        ],
+        "label": 93
+    },
+    {
+        "image_id": 1010168000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010168/rgb/010168_000005.png",
+        "caption": "Can you move this gear puller?",
+        "bbox": [
+            0.47734375,
+            0.5138888888888888,
+            0.06822916666666666,
+            0.06666666666666667
+        ],
+        "label": 6
+    },
+    {
+        "image_id": 1010193000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010193/rgb/010193_000005.png",
+        "caption": "Let's move this ivory silica gel together.",
+        "bbox": [
+            0.71640625,
+            0.6768518518518518,
+            0.05677083333333333,
+            0.07777777777777778
+        ],
+        "label": 154
+    },
+    {
+        "image_id": 1010157000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010157/rgb/010157_000005.png",
+        "caption": "Can you help me move the red glue gun upwards?",
+        "bbox": [
+            0.5080729166666667,
+            0.6546296296296297,
+            0.1296875,
+            0.2222222222222222
+        ],
+        "label": 147
+    },
+    {
+        "image_id": 1010313000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010313/rgb/010313_000002.png",
+        "caption": "Let's move that ocher ground rod connector to the left.",
+        "bbox": [
+            0.68671875,
+            0.4152777777777778,
+            0.0234375,
+            0.023148148148148147
+        ],
+        "label": 56
+    },
+    {
+        "image_id": 1010184000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010184/rgb/010184_000003.png",
+        "caption": "Please move that white lead inhaler upwards.",
+        "bbox": [
+            0.22447916666666667,
+            0.6064814814814815,
+            0.06770833333333333,
+            0.08703703703703704
+        ],
+        "label": 8
+    },
+    {
+        "image_id": 1010289000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010289/rgb/010289_000005.png",
+        "caption": "Let's move this cable upwards.",
+        "bbox": [
+            0.7411458333333333,
+            0.45740740740740743,
+            0.12395833333333334,
+            0.1259259259259259
+        ],
+        "label": 127
+    },
+    {
+        "image_id": 1010196000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010196/rgb/010196_000002.png",
+        "caption": "Let's move that cutter to the left.",
+        "bbox": [
+            0.5786458333333333,
+            0.5680555555555555,
+            0.11770833333333333,
+            0.025
+        ],
+        "label": 164
+    },
+    {
+        "image_id": 1010143000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010143/rgb/010143_000002.png",
+        "caption": "Let's move that glove to the left.",
+        "bbox": [
+            0.53828125,
+            0.6685185185185185,
+            0.0453125,
+            0.12407407407407407
+        ],
+        "label": 185
+    },
+    {
+        "image_id": 1010268000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010268/rgb/010268_000004.png",
+        "caption": "Let's move the gray multi-joint upwards.",
+        "bbox": [
+            0.34921875,
+            0.5462962962962963,
+            0.0828125,
+            0.12407407407407407
+        ],
+        "label": 134
+    },
+    {
+        "image_id": 1010212000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010212/rgb/010212_000005.png",
+        "caption": "Can you move the blue Danpla box to the left?",
+        "bbox": [
+            0.1515625,
+            0.42916666666666664,
+            0.23854166666666668,
+            0.2638888888888889
+        ],
+        "label": 148
+    },
+    {
+        "image_id": 1010214000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010214/rgb/010214_000002.png",
+        "caption": "Can you move that Danpla box to the right?",
+        "bbox": [
+            0.49505208333333334,
+            0.33287037037037037,
+            0.23697916666666666,
+            0.29907407407407405
+        ],
+        "label": 148
+    },
+    {
+        "image_id": 1010195000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010195/rgb/010195_000004.png",
+        "caption": "Let's move the ivory colored air cap downwards together.",
+        "bbox": [
+            0.5651041666666666,
+            0.49212962962962964,
+            0.13125,
+            0.11574074074074074
+        ],
+        "label": 157
+    },
+    {
+        "image_id": 1010130000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010130/rgb/010130_000004.png",
+        "caption": "Let's move this black stopwatch to the right.",
+        "bbox": [
+            0.3927083333333333,
+            0.8324074074074074,
+            0.03125,
+            0.10185185185185185
+        ],
+        "label": 179
+    },
+    {
+        "image_id": 1010215000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010215/rgb/010215_000002.png",
+        "caption": "Let's move this blue Danpla box to the right.",
+        "bbox": [
+            0.4484375,
+            0.6037037037037037,
+            0.33958333333333335,
+            0.5851851851851851
+        ],
+        "label": 148
+    },
+    {
+        "image_id": 1010273000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010273/rgb/010273_000005.png",
+        "caption": "Can you move that same-color ground rod connector to the left?",
+        "bbox": [
+            0.46380208333333334,
+            0.3212962962962963,
+            0.021354166666666667,
+            0.020370370370370372
+        ],
+        "label": 56
+    },
+    {
+        "image_id": 1010289000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010289/rgb/010289_000003.png",
+        "caption": "Let's move that white T-joint down together.",
+        "bbox": [
+            0.7432291666666667,
+            0.44305555555555554,
+            0.030208333333333334,
+            0.028703703703703703
+        ],
+        "label": 97
+    },
+    {
+        "image_id": 1010253000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010253/rgb/010253_000005.png",
+        "caption": "Let's move that red laser rangefinder upwards.",
+        "bbox": [
+            0.5309895833333333,
+            0.46805555555555556,
+            0.0484375,
+            0.06388888888888888
+        ],
+        "label": 16
+    },
+    {
+        "image_id": 1010120000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010120/rgb/010120_000005.png",
+        "caption": "Let's move the red heater downwards.",
+        "bbox": [
+            0.6971354166666667,
+            0.4111111111111111,
+            0.13697916666666668,
+            0.14814814814814814
+        ],
+        "label": 42
+    },
+    {
+        "image_id": 1010171000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010171/rgb/010171_000002.png",
+        "caption": "Let's move the white triangle upwards.",
+        "bbox": [
+            0.7348958333333333,
+            0.2712962962962963,
+            0.07604166666666666,
+            0.04814814814814815
+        ],
+        "label": 30
+    },
+    {
+        "image_id": 1010144000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010144/rgb/010144_000003.png",
+        "caption": "Please move the black impact wrench to the right.",
+        "bbox": [
+            0.4986979166666667,
+            0.5550925925925926,
+            0.1109375,
+            0.18981481481481483
+        ],
+        "label": 51
+    },
+    {
+        "image_id": 1010176000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010176/rgb/010176_000005.png",
+        "caption": "Can you help me move the black safety glasses to the left?",
+        "bbox": [
+            0.50234375,
+            0.6736111111111112,
+            0.0390625,
+            0.10462962962962963
+        ],
+        "label": 175
+    },
+    {
+        "image_id": 1010198000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010198/rgb/010198_000003.png",
+        "caption": "Please move that combination square upwards.",
+        "bbox": [
+            0.3450520833333333,
+            0.2847222222222222,
+            0.13385416666666666,
+            0.09351851851851851
+        ],
+        "label": 60
+    },
+    {
+        "image_id": 1010171000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010171/rgb/010171_000003.png",
+        "caption": "Let's move that brush to the right together.",
+        "bbox": [
+            0.40078125,
+            0.4222222222222222,
+            0.05677083333333333,
+            0.06666666666666667
+        ],
+        "label": 29
+    },
+    {
+        "image_id": 1010146000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010146/rgb/010146_000003.png",
+        "caption": "Can you help me move the red grabhook upwards?",
+        "bbox": [
+            0.55234375,
+            0.5787037037037037,
+            0.0484375,
+            0.044444444444444446
+        ],
+        "label": 5
+    },
+    {
+        "image_id": 1010206000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010206/rgb/010206_000003.png",
+        "caption": "Let's move the white conversion adapter upwards together.",
+        "bbox": [
+            0.25755208333333335,
+            0.5694444444444444,
+            0.033854166666666664,
+            0.05
+        ],
+        "label": 105
+    },
+    {
+        "image_id": 1010316000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010316/rgb/010316_000003.png",
+        "caption": "Let's move the white cut saw blade upward together.",
+        "bbox": [
+            0.48203125,
+            0.45694444444444443,
+            0.1046875,
+            0.025
+        ],
+        "label": 126
+    },
+    {
+        "image_id": 1010188000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010188/rgb/010188_000003.png",
+        "caption": "Let's move that red twine upwards.",
+        "bbox": [
+            0.28072916666666664,
+            0.6865740740740741,
+            0.11041666666666666,
+            0.2175925925925926
+        ],
+        "label": 152
+    },
+    {
+        "image_id": 1010152000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010152/rgb/010152_000003.png",
+        "caption": "Let's move that silver rope saw upwards.",
+        "bbox": [
+            0.6674479166666667,
+            0.4587962962962963,
+            0.11302083333333333,
+            0.04722222222222222
+        ],
+        "label": 57
+    },
+    {
+        "image_id": 1010140000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010140/rgb/010140_000004.png",
+        "caption": "Let's move that work raincoat to the right together.",
+        "bbox": [
+            0.42604166666666665,
+            0.42824074074074076,
+            0.13854166666666667,
+            0.11018518518518519
+        ],
+        "label": 184
+    },
+    {
+        "image_id": 1010220000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010220/rgb/010220_000002.png",
+        "caption": "Please move that silver pressure flag down.",
+        "bbox": [
+            0.23359375,
+            0.3819444444444444,
+            0.05364583333333333,
+            0.04351851851851852
+        ],
+        "label": 18
+    },
+    {
+        "image_id": 1010260000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010260/rgb/010260_000005.png",
+        "caption": "Let's move the white T-joint upwards.",
+        "bbox": [
+            0.6473958333333333,
+            0.6652777777777777,
+            0.058333333333333334,
+            0.06574074074074074
+        ],
+        "label": 97
+    },
+    {
+        "image_id": 1010217000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010217/rgb/010217_000002.png",
+        "caption": "Can you move this brown plane downwards?",
+        "bbox": [
+            0.5828125,
+            0.4111111111111111,
+            0.029166666666666667,
+            0.07222222222222222
+        ],
+        "label": 10
+    },
+    {
+        "image_id": 1010265000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010265/rgb/010265_000001.png",
+        "caption": "Can you move the green flow meter to the right?",
+        "bbox": [
+            0.53671875,
+            0.5069444444444444,
+            0.0765625,
+            0.09351851851851851
+        ],
+        "label": 110
+    },
+    {
+        "image_id": 1010267000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010267/rgb/010267_000004.png",
+        "caption": "Could you help me move that yellow seal masking tape upwards?",
+        "bbox": [
+            0.5239583333333333,
+            0.44074074074074077,
+            0.08229166666666667,
+            0.06666666666666667
+        ],
+        "label": 91
+    },
+    {
+        "image_id": 1010297000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010297/rgb/010297_000005.png",
+        "caption": "Let's get this gray hand hole fun down together.",
+        "bbox": [
+            0.371875,
+            0.7435185185185185,
+            0.05520833333333333,
+            0.07962962962962963
+        ],
+        "label": 167
+    },
+    {
+        "image_id": 1010193000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010193/rgb/010193_000003.png",
+        "caption": "Can you move that brown cardboard box?",
+        "bbox": [
+            0.6453125,
+            0.4212962962962963,
+            0.271875,
+            0.3351851851851852
+        ],
+        "label": 161
+    },
+    {
+        "image_id": 1010256000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010256/rgb/010256_000003.png",
+        "caption": "Could you help me move that white pin gauge upward?",
+        "bbox": [
+            0.70390625,
+            0.49675925925925923,
+            0.0234375,
+            0.021296296296296296
+        ],
+        "label": 75
+    },
+    {
+        "image_id": 1010158000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010158/rgb/010158_000004.png",
+        "caption": "Let's move that red glue gun down.",
+        "bbox": [
+            0.41875,
+            0.725925925925926,
+            0.15625,
+            0.2074074074074074
+        ],
+        "label": 147
+    },
+    {
+        "image_id": 1010201000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010201/rgb/010201_000004.png",
+        "caption": "Please move the welding holder downwards.",
+        "bbox": [
+            0.5653645833333333,
+            0.39166666666666666,
+            0.11302083333333333,
+            0.1
+        ],
+        "label": 44
+    },
+    {
+        "image_id": 1010147000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010147/rgb/010147_000005.png",
+        "caption": "Could you move that black level to the right?",
+        "bbox": [
+            0.6059895833333333,
+            0.5486111111111112,
+            0.11510416666666666,
+            0.07314814814814814
+        ],
+        "label": 33
+    },
+    {
+        "image_id": 1010301000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010301/rgb/010301_000004.png",
+        "caption": "Can you move this white label printer to the right?",
+        "bbox": [
+            0.38125,
+            0.5430555555555555,
+            0.04895833333333333,
+            0.10462962962962963
+        ],
+        "label": 149
+    },
+    {
+        "image_id": 1010168000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010168/rgb/010168_000005.png",
+        "caption": "Let's move this silver double-ended spanner upwards.",
+        "bbox": [
+            0.65546875,
+            0.3662037037037037,
+            0.04635416666666667,
+            0.049074074074074076
+        ],
+        "label": 40
+    },
+    {
+        "image_id": 1010169000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010169/rgb/010169_000004.png",
+        "caption": "Could you move that hex wrench down?",
+        "bbox": [
+            0.3497395833333333,
+            0.45092592592592595,
+            0.043229166666666666,
+            0.06296296296296296
+        ],
+        "label": 49
+    },
+    {
+        "image_id": 1010137000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010137/rgb/010137_000003.png",
+        "caption": "Could you move the work raincoat downstairs?",
+        "bbox": [
+            0.5177083333333333,
+            0.45694444444444443,
+            0.10833333333333334,
+            0.15092592592592594
+        ],
+        "label": 184
+    },
+    {
+        "image_id": 1010144000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010144/rgb/010144_000002.png",
+        "caption": "Let's move the gray gear puller downward together.",
+        "bbox": [
+            0.8471354166666667,
+            0.31666666666666665,
+            0.0703125,
+            0.06851851851851852
+        ],
+        "label": 6
+    },
+    {
+        "image_id": 1010281000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010281/rgb/010281_000001.png",
+        "caption": "Let's move the glass adsorber together.",
+        "bbox": [
+            0.8192708333333333,
+            0.6893518518518519,
+            0.17916666666666667,
+            0.275
+        ],
+        "label": 46
+    },
+    {
+        "image_id": 1010251000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010251/rgb/010251_000002.png",
+        "caption": "Can you help me move this gray screwjack to the right?",
+        "bbox": [
+            0.6526041666666667,
+            0.7583333333333333,
+            0.03125,
+            0.10185185185185185
+        ],
+        "label": 34
+    },
+    {
+        "image_id": 1010141000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010141/rgb/010141_000002.png",
+        "caption": "Can you help me move those turquoise earmuffs upwards?",
+        "bbox": [
+            0.5078125,
+            0.7481481481481481,
+            0.014583333333333334,
+            0.022222222222222223
+        ],
+        "label": 170
+    },
+    {
+        "image_id": 1010157000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010157/rgb/010157_000002.png",
+        "caption": "Let's move the red flag to the right together.",
+        "bbox": [
+            0.7348958333333333,
+            0.3560185185185185,
+            0.03229166666666667,
+            0.03981481481481482
+        ],
+        "label": 160
+    },
+    {
+        "image_id": 1010276000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010276/rgb/010276_000003.png",
+        "caption": "Can you move this O-ring puller?",
+        "bbox": [
+            0.23984375,
+            0.4564814814814815,
+            0.0578125,
+            0.08703703703703704
+        ],
+        "label": 43
+    },
+    {
+        "image_id": 1010202000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010202/rgb/010202_000002.png",
+        "caption": "Can you move this welding holder?",
+        "bbox": [
+            0.3653645833333333,
+            0.34675925925925927,
+            0.08802083333333334,
+            0.09722222222222222
+        ],
+        "label": 44
+    },
+    {
+        "image_id": 1010136000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010136/rgb/010136_000005.png",
+        "caption": "Could you move the turquoise earmuffs to the left?",
+        "bbox": [
+            0.5627604166666667,
+            0.6476851851851851,
+            0.027604166666666666,
+            0.030555555555555555
+        ],
+        "label": 170
+    },
+    {
+        "image_id": 1010179000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010179/rgb/010179_000002.png",
+        "caption": "Can you move this black compass upwards?",
+        "bbox": [
+            0.45208333333333334,
+            0.8189814814814815,
+            0.014583333333333334,
+            0.026851851851851852
+        ],
+        "label": 171
+    },
+    {
+        "image_id": 1010231000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010231/rgb/010231_000005.png",
+        "caption": "Let's move the white vernier caliper upwards together.",
+        "bbox": [
+            0.7049479166666667,
+            0.537962962962963,
+            0.1421875,
+            0.09074074074074075
+        ],
+        "label": 25
+    },
+    {
+        "image_id": 1010264000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010264/rgb/010264_000001.png",
+        "caption": "Could you help me move that black capacitor upward?",
+        "bbox": [
+            0.6075520833333333,
+            0.44675925925925924,
+            0.030729166666666665,
+            0.030555555555555555
+        ],
+        "label": 125
+    },
+    {
+        "image_id": 1010276000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010276/rgb/010276_000005.png",
+        "caption": "Could you move this white sound level meter to the right?",
+        "bbox": [
+            0.4778645833333333,
+            0.4550925925925926,
+            0.0578125,
+            0.10462962962962963
+        ],
+        "label": 32
+    },
+    {
+        "image_id": 1010273000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010273/rgb/010273_000005.png",
+        "caption": "Let's move that black driver to the left together.",
+        "bbox": [
+            0.4140625,
+            0.524537037037037,
+            0.13541666666666666,
+            0.10833333333333334
+        ],
+        "label": 14
+    },
+    {
+        "image_id": 1010213000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010213/rgb/010213_000002.png",
+        "caption": "Let's move the white silica gel downwards together.",
+        "bbox": [
+            0.49609375,
+            0.4759259259259259,
+            0.05260416666666667,
+            0.06851851851851852
+        ],
+        "label": 154
+    },
+    {
+        "image_id": 1010121000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010121/rgb/010121_000001.png",
+        "caption": "Can you move this silver grease gun?",
+        "bbox": [
+            0.4596354166666667,
+            0.5032407407407408,
+            0.11927083333333334,
+            0.25462962962962965
+        ],
+        "label": 4
+    },
+    {
+        "image_id": 1010153000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010153/rgb/010153_000004.png",
+        "caption": "Can you move that glue gun to the right?",
+        "bbox": [
+            0.28854166666666664,
+            0.7152777777777778,
+            0.11354166666666667,
+            0.18055555555555555
+        ],
+        "label": 147
+    },
+    {
+        "image_id": 1010280000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010280/rgb/010280_000005.png",
+        "caption": "Can you move this black screw jack to the right?",
+        "bbox": [
+            0.6630208333333333,
+            0.6083333333333333,
+            0.016666666666666666,
+            0.04814814814814815
+        ],
+        "label": 34
+    },
+    {
+        "image_id": 1010310000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010310/rgb/010310_000005.png",
+        "caption": "Please move this orange shovel to the right.",
+        "bbox": [
+            0.7747395833333334,
+            0.6648148148148149,
+            0.08697916666666666,
+            0.22407407407407406
+        ],
+        "label": 31
+    },
+    {
+        "image_id": 1010215000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010215/rgb/010215_000004.png",
+        "caption": "Can you help me move that hand hole fun upwards?",
+        "bbox": [
+            0.5059895833333333,
+            0.5949074074074074,
+            0.11302083333333333,
+            0.06574074074074074
+        ],
+        "label": 167
+    },
+    {
+        "image_id": 1010137000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010137/rgb/010137_000004.png",
+        "caption": "Let's move that white megaphone together",
+        "bbox": [
+            0.36953125,
+            0.8046296296296296,
+            0.10260416666666666,
+            0.28888888888888886
+        ],
+        "label": 172
+    },
+    {
+        "image_id": 1010134000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010134/rgb/010134_000005.png",
+        "caption": "Find the object 178.",
+        "bbox": [
+            0.30416666666666664,
+            0.412962962962963,
+            0.23020833333333332,
+            0.6074074074074074
+        ],
+        "label": 178
+    },
+    {
+        "image_id": 1010209000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010209/rgb/010209_000004.png",
+        "caption": "Can you move that red insulation tape?",
+        "bbox": [
+            0.7036458333333333,
+            0.3509259259259259,
+            0.035416666666666666,
+            0.044444444444444446
+        ],
+        "label": 122
+    },
+    {
+        "image_id": 1010161000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010161/rgb/010161_000004.png",
+        "caption": "Let's move the white ice pack downwards.",
+        "bbox": [
+            0.3026041666666667,
+            0.65,
+            0.08020833333333334,
+            0.11851851851851852
+        ],
+        "label": 156
+    },
+    {
+        "image_id": 1010121000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010121/rgb/010121_000003.png",
+        "caption": "Can you help me move the white grease gun to the right?",
+        "bbox": [
+            0.8200520833333333,
+            0.2898148148148148,
+            0.1609375,
+            0.1111111111111111
+        ],
+        "label": 4
+    },
+    {
+        "image_id": 1010219000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010219/rgb/010219_000001.png",
+        "caption": "Let's move that yellow wallpapering knife downward together.",
+        "bbox": [
+            0.3807291666666667,
+            0.3449074074074074,
+            0.0375,
+            0.11203703703703703
+        ],
+        "label": 13
+    },
+    {
+        "image_id": 1010304000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010304/rgb/010304_000003.png",
+        "caption": "Let's move that chain saw to the right.",
+        "bbox": [
+            0.61796875,
+            0.35648148148148145,
+            0.1828125,
+            0.17407407407407408
+        ],
+        "label": 59
+    },
+    {
+        "image_id": 1010238000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010238/rgb/010238_000002.png",
+        "caption": "Please move this protractor to the right.",
+        "bbox": [
+            0.43645833333333334,
+            0.5115740740740741,
+            0.07291666666666667,
+            0.12129629629629629
+        ],
+        "label": 27
+    },
+    {
+        "image_id": 1010194000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010194/rgb/010194_000004.png",
+        "caption": "Could you move that black pencil holder down?",
+        "bbox": [
+            0.43125,
+            0.5037037037037037,
+            0.040625,
+            0.09814814814814815
+        ],
+        "label": 158
+    },
+    {
+        "image_id": 1010217000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010217/rgb/010217_000001.png",
+        "caption": "Let's move that red glass absorber downward together.",
+        "bbox": [
+            0.484375,
+            0.5768518518518518,
+            0.04791666666666667,
+            0.10185185185185185
+        ],
+        "label": 46
+    },
+    {
+        "image_id": 1010183000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010183/rgb/010183_000004.png",
+        "caption": "Can you help me move that blue lead sucker to the right?",
+        "bbox": [
+            0.5734375,
+            0.387037037037037,
+            0.13333333333333333,
+            0.05185185185185185
+        ],
+        "label": 8
+    },
+    {
+        "image_id": 1010152000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010152/rgb/010152_000005.png",
+        "caption": "Let's move that ice pack to the left.",
+        "bbox": [
+            0.5825520833333333,
+            0.7050925925925926,
+            0.08385416666666666,
+            0.1175925925925926
+        ],
+        "label": 156
+    },
+    {
+        "image_id": 1010212000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010212/rgb/010212_000005.png",
+        "caption": "Can you move the white silica gel to the right?",
+        "bbox": [
+            0.11302083333333333,
+            0.425,
+            0.035416666666666666,
+            0.044444444444444446
+        ],
+        "label": 154
+    },
+    {
+        "image_id": 1010210000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010210/rgb/010210_000004.png",
+        "caption": "Let's move this blue Danpla box to the right.",
+        "bbox": [
+            0.62578125,
+            0.39814814814814814,
+            0.19635416666666666,
+            0.26666666666666666
+        ],
+        "label": 148
+    },
+    {
+        "image_id": 1010278000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010278/rgb/010278_000005.png",
+        "caption": "Can you help me move that white laser range finder to the left?",
+        "bbox": [
+            0.27421875,
+            0.5203703703703704,
+            0.07239583333333334,
+            0.10185185185185185
+        ],
+        "label": 16
+    },
+    {
+        "image_id": 1010190000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010190/rgb/010190_000005.png",
+        "caption": "Can you help me put that white ice pack down?",
+        "bbox": [
+            0.43020833333333336,
+            0.6962962962962963,
+            0.09375,
+            0.13703703703703704
+        ],
+        "label": 156
+    },
+    {
+        "image_id": 1010310000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010310/rgb/010310_000005.png",
+        "caption": "Can you help me move that height gauge to the right?",
+        "bbox": [
+            0.6940104166666666,
+            0.425,
+            0.12864583333333332,
+            0.06481481481481481
+        ],
+        "label": 76
+    },
+    {
+        "image_id": 1010179000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010179/rgb/010179_000004.png",
+        "caption": "Can you move that black compass to the right?",
+        "bbox": [
+            0.5328125,
+            0.7384259259259259,
+            0.013541666666666667,
+            0.023148148148148147
+        ],
+        "label": 171
+    },
+    {
+        "image_id": 1010159000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010159/rgb/010159_000001.png",
+        "caption": "Let's move that red tape cutter upward together.",
+        "bbox": [
+            0.3703125,
+            0.4773148148148148,
+            0.04791666666666667,
+            0.10092592592592593
+        ],
+        "label": 165
+    },
+    {
+        "image_id": 1010316000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010316/rgb/010316_000004.png",
+        "caption": "Let's move this gold mold spring downwards.",
+        "bbox": [
+            0.53515625,
+            0.5712962962962963,
+            0.009895833333333333,
+            0.014814814814814815
+        ],
+        "label": 94
+    },
+    {
+        "image_id": 1010183000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010183/rgb/010183_000001.png",
+        "caption": "Let's move that silver monkey wrench upwards together.",
+        "bbox": [
+            0.7533854166666667,
+            0.41805555555555557,
+            0.10260416666666666,
+            0.10833333333333334
+        ],
+        "label": 21
+    },
+    {
+        "image_id": 1010159000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010159/rgb/010159_000003.png",
+        "caption": "Can you help me move this blue tape measure to the right?",
+        "bbox": [
+            0.321875,
+            0.7773148148148148,
+            0.05625,
+            0.16574074074074074
+        ],
+        "label": 163
+    },
+    {
+        "image_id": 1010195000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010195/rgb/010195_000003.png",
+        "caption": "Can you help me move this green box cutter to the right?",
+        "bbox": [
+            0.22083333333333333,
+            0.5763888888888888,
+            0.016666666666666666,
+            0.04722222222222222
+        ],
+        "label": 164
+    },
+    {
+        "image_id": 1010315000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010315/rgb/010315_000002.png",
+        "caption": "Can you help me move this orange compressor safety pin to the right?",
+        "bbox": [
+            0.5734375,
+            0.6106481481481482,
+            0.020833333333333332,
+            0.06574074074074074
+        ],
+        "label": 118
+    },
+    {
+        "image_id": 1010220000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010220/rgb/010220_000003.png",
+        "caption": "Could you move the force to the left?",
+        "bbox": [
+            0.4049479166666667,
+            0.7199074074074074,
+            0.12760416666666666,
+            0.15092592592592594
+        ],
+        "label": 18
+    },
+    {
+        "image_id": 1010208000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010208/rgb/010208_000002.png",
+        "caption": "Let's move that blue punch to the right together.",
+        "bbox": [
+            0.58203125,
+            0.43194444444444446,
+            0.15885416666666666,
+            0.11388888888888889
+        ],
+        "label": 133
+    },
+    {
+        "image_id": 1010268000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010268/rgb/010268_000004.png",
+        "caption": "Let's move that white liquid pool upwards.",
+        "bbox": [
+            0.709375,
+            0.5578703703703703,
+            0.11979166666666667,
+            0.14537037037037037
+        ],
+        "label": 115
+    },
+    {
+        "image_id": 1010235000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010235/rgb/010235_000004.png",
+        "caption": "Let's get rid of that black barcode scanner together.",
+        "bbox": [
+            0.6067708333333334,
+            0.4583333333333333,
+            0.046875,
+            0.09444444444444444
+        ],
+        "label": 190
+    },
+    {
+        "image_id": 1010228000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010228/rgb/010228_000004.png",
+        "caption": "Can you help me move those pliers?",
+        "bbox": [
+            0.43984375,
+            0.5203703703703704,
+            0.058854166666666666,
+            0.06481481481481481
+        ],
+        "label": 73
+    },
+    {
+        "image_id": 1010259000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010259/rgb/010259_000004.png",
+        "caption": "Can you move this yellow wallpapering knife to the right?",
+        "bbox": [
+            0.38333333333333336,
+            0.6625,
+            0.09791666666666667,
+            0.06388888888888888
+        ],
+        "label": 13
+    },
+    {
+        "image_id": 1010232000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010232/rgb/010232_000005.png",
+        "caption": "Let\u2019s move this glass adsorber together.",
+        "bbox": [
+            0.3484375,
+            0.649537037037037,
+            0.07395833333333333,
+            0.125
+        ],
+        "label": 46
+    },
+    {
+        "image_id": 1010301000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010301/rgb/010301_000003.png",
+        "caption": "Can you help me move that white label printer upstairs?",
+        "bbox": [
+            0.34609375,
+            0.5638888888888889,
+            0.09739583333333333,
+            0.10555555555555556
+        ],
+        "label": 149
+    },
+    {
+        "image_id": 1010240000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010240/rgb/010240_000005.png",
+        "caption": "Please move that yellow ax to the left.",
+        "bbox": [
+            0.5401041666666667,
+            0.48842592592592593,
+            0.22291666666666668,
+            0.10462962962962963
+        ],
+        "label": 79
+    },
+    {
+        "image_id": 1010220000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010220/rgb/010220_000001.png",
+        "caption": "Let's move that black screw jack together.",
+        "bbox": [
+            0.63125,
+            0.4476851851851852,
+            0.019791666666666666,
+            0.06018518518518518
+        ],
+        "label": 34
+    },
+    {
+        "image_id": 1010199000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010199/rgb/010199_000004.png",
+        "caption": "Let's move the same-color ground rod connector to the left.",
+        "bbox": [
+            0.7479166666666667,
+            0.5523148148148148,
+            0.021875,
+            0.03796296296296296
+        ],
+        "label": 56
+    },
+    {
+        "image_id": 1010297000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010297/rgb/010297_000003.png",
+        "caption": "Please move the silver silicone gun to the left.",
+        "bbox": [
+            0.30494791666666665,
+            0.5125,
+            0.08385416666666666,
+            0.08055555555555556
+        ],
+        "label": 155
+    },
+    {
+        "image_id": 1010192000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010192/rgb/010192_000002.png",
+        "caption": "Let's get that box tape out of the way.",
+        "bbox": [
+            0.39088541666666665,
+            0.5212962962962963,
+            0.0546875,
+            0.09444444444444444
+        ],
+        "label": 151
+    },
+    {
+        "image_id": 1010216000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010216/rgb/010216_000005.png",
+        "caption": "Let's move that tan planer to the left.",
+        "bbox": [
+            0.6830729166666667,
+            0.6365740740740741,
+            0.0765625,
+            0.14166666666666666
+        ],
+        "label": 10
+    },
+    {
+        "image_id": 1010150000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010150/rgb/010150_000004.png",
+        "caption": "Let's move this white double-ended spanner to the left together.",
+        "bbox": [
+            0.6096354166666667,
+            0.5185185185185185,
+            0.027604166666666666,
+            0.08148148148148149
+        ],
+        "label": 40
+    },
+    {
+        "image_id": 1010125000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010125/rgb/010125_000004.png",
+        "caption": "Could you move the black compass upwards?",
+        "bbox": [
+            0.4453125,
+            0.6314814814814815,
+            0.017708333333333333,
+            0.027777777777777776
+        ],
+        "label": 171
+    },
+    {
+        "image_id": 1010266000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010266/rgb/010266_000004.png",
+        "caption": "Please move this white label paper upward.",
+        "bbox": [
+            0.6856770833333333,
+            0.6777777777777778,
+            0.0984375,
+            0.06481481481481481
+        ],
+        "label": 92
+    },
+    {
+        "image_id": 1010280000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010280/rgb/010280_000005.png",
+        "caption": "Please take away that gray drill jig.",
+        "bbox": [
+            0.6065104166666667,
+            0.5166666666666667,
+            0.05572916666666667,
+            0.1
+        ],
+        "label": 15
+    },
+    {
+        "image_id": 1010276000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010276/rgb/010276_000001.png",
+        "caption": "Could you help me move the black screwdriver downwards?",
+        "bbox": [
+            0.8302083333333333,
+            0.5976851851851852,
+            0.24375,
+            0.14537037037037037
+        ],
+        "label": 14
+    },
+    {
+        "image_id": 1010198000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010198/rgb/010198_000002.png",
+        "caption": "Let's move the black combination square to the right together.",
+        "bbox": [
+            0.59140625,
+            0.5513888888888889,
+            0.20052083333333334,
+            0.10833333333333334
+        ],
+        "label": 60
+    },
+    {
+        "image_id": 1010306000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010306/rgb/010306_000002.png",
+        "caption": "Please move this torque wrench to the left.",
+        "bbox": [
+            0.6567708333333333,
+            0.5513888888888889,
+            0.08645833333333333,
+            0.16574074074074074
+        ],
+        "label": 64
+    },
+    {
+        "image_id": 1010304000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010304/rgb/010304_000004.png",
+        "caption": "Let's move that black protractor upward together.",
+        "bbox": [
+            0.79375,
+            0.4361111111111111,
+            0.041666666666666664,
+            0.10555555555555556
+        ],
+        "label": 27
+    },
+    {
+        "image_id": 1010199000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010199/rgb/010199_000001.png",
+        "caption": "Can you help me move the silver heater to the left?",
+        "bbox": [
+            0.50078125,
+            0.4847222222222222,
+            0.1390625,
+            0.2101851851851852
+        ],
+        "label": 42
+    },
+    {
+        "image_id": 1010313000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010313/rgb/010313_000003.png",
+        "caption": "Can you help me move that orange welding magnet?",
+        "bbox": [
+            0.62421875,
+            0.5064814814814815,
+            0.08489583333333334,
+            0.07222222222222222
+        ],
+        "label": 117
+    },
+    {
+        "image_id": 1010182000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010182/rgb/010182_000003.png",
+        "caption": "Let's move that silver bandsaw upward together.",
+        "bbox": [
+            0.5583333333333333,
+            0.42268518518518516,
+            0.2791666666666667,
+            0.3972222222222222
+        ],
+        "label": 24
+    },
+    {
+        "image_id": 1010289000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010289/rgb/010289_000002.png",
+        "caption": "Can you help me move that white T-joint to the left?",
+        "bbox": [
+            0.665625,
+            0.4444444444444444,
+            0.03854166666666667,
+            0.05555555555555555
+        ],
+        "label": 97
+    },
+    {
+        "image_id": 1010124000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010124/rgb/010124_000003.png",
+        "caption": "Let's move that orange work light to the right together.",
+        "bbox": [
+            0.4778645833333333,
+            0.5166666666666667,
+            0.14114583333333333,
+            0.10925925925925926
+        ],
+        "label": 183
+    },
+    {
+        "image_id": 1010210000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010210/rgb/010210_000003.png",
+        "caption": "Let's move that white ice pack.",
+        "bbox": [
+            0.5567708333333333,
+            0.8231481481481482,
+            0.13854166666666667,
+            0.13148148148148148
+        ],
+        "label": 156
+    },
+    {
+        "image_id": 1010211000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010211/rgb/010211_000003.png",
+        "caption": "Let's move this blue Danpla box to the left.",
+        "bbox": [
+            0.5223958333333333,
+            0.3925925925925926,
+            0.20729166666666668,
+            0.3111111111111111
+        ],
+        "label": 148
+    },
+    {
+        "image_id": 1010231000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010231/rgb/010231_000003.png",
+        "caption": "Can you help me move this gray palm tree?",
+        "bbox": [
+            0.6388020833333333,
+            0.26944444444444443,
+            0.0546875,
+            0.17592592592592593
+        ],
+        "label": 70
+    },
+    {
+        "image_id": 1010204000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010204/rgb/010204_000004.png",
+        "caption": "Let's move the glass absorber upward.",
+        "bbox": [
+            0.6966145833333334,
+            0.41944444444444445,
+            0.0734375,
+            0.1111111111111111
+        ],
+        "label": 46
+    },
+    {
+        "image_id": 1010236000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010236/rgb/010236_000001.png",
+        "caption": "Let's move this O-ring puller downwards.",
+        "bbox": [
+            0.69140625,
+            0.5652777777777778,
+            0.0390625,
+            0.0787037037037037
+        ],
+        "label": 43
+    },
+    {
+        "image_id": 1010189000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010189/rgb/010189_000005.png",
+        "caption": "Could you help me move that yellow paper cushion upwards?",
+        "bbox": [
+            0.590625,
+            0.42083333333333334,
+            0.215625,
+            0.08055555555555556
+        ],
+        "label": 162
+    },
+    {
+        "image_id": 1010279000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010279/rgb/010279_000005.png",
+        "caption": "Let's move that flyer cella downward together.",
+        "bbox": [
+            0.53984375,
+            0.43703703703703706,
+            0.05677083333333333,
+            0.1111111111111111
+        ],
+        "label": 74
+    },
+    {
+        "image_id": 1010180000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010180/rgb/010180_000003.png",
+        "caption": "Let's move the work raincoat to the left.",
+        "bbox": [
+            0.39114583333333336,
+            0.5023148148148148,
+            0.15416666666666667,
+            0.15833333333333333
+        ],
+        "label": 184
+    },
+    {
+        "image_id": 1010226000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010226/rgb/010226_000002.png",
+        "caption": "Can you help me put away that infrared thermometer?",
+        "bbox": [
+            0.3546875,
+            0.31203703703703706,
+            0.08125,
+            0.05925925925925926
+        ],
+        "label": 52
+    },
+    {
+        "image_id": 1010300000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010300/rgb/010300_000004.png",
+        "caption": "Let's move the blue file to the left.",
+        "bbox": [
+            0.7546875,
+            0.5305555555555556,
+            0.31666666666666665,
+            0.13703703703703704
+        ],
+        "label": 166
+    },
+    {
+        "image_id": 1010129000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010129/rgb/010129_000005.png",
+        "caption": "Let's move these black earmuffs down.",
+        "bbox": [
+            0.4505208333333333,
+            0.7097222222222223,
+            0.04375,
+            0.125
+        ],
+        "label": 169
+    },
+    {
+        "image_id": 1010230000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010230/rgb/010230_000001.png",
+        "caption": "Let's move this gray duct tape downward together.",
+        "bbox": [
+            0.7768229166666667,
+            0.6134259259259259,
+            0.0546875,
+            0.0824074074074074
+        ],
+        "label": 11
+    },
+    {
+        "image_id": 1010308000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010308/rgb/010308_000005.png",
+        "caption": "Can you move that silver bolt to the right?",
+        "bbox": [
+            0.81015625,
+            0.7101851851851851,
+            0.024479166666666666,
+            0.020370370370370372
+        ],
+        "label": 106
+    },
+    {
+        "image_id": 1010299000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010299/rgb/010299_000005.png",
+        "caption": "Let's move this yellow paper box down.",
+        "bbox": [
+            0.4421875,
+            0.6236111111111111,
+            0.390625,
+            0.2935185185185185
+        ],
+        "label": 161
+    },
+    {
+        "image_id": 1010199000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010199/rgb/010199_000005.png",
+        "caption": "Can you help me move that folding saw upwards?",
+        "bbox": [
+            0.68984375,
+            0.4300925925925926,
+            0.0484375,
+            0.12685185185185185
+        ],
+        "label": 55
+    },
+    {
+        "image_id": 1010267000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010267/rgb/010267_000004.png",
+        "caption": "Please remove those white ball bearings.",
+        "bbox": [
+            0.328125,
+            0.5347222222222222,
+            0.06041666666666667,
+            0.05648148148148148
+        ],
+        "label": 104
+    },
+    {
+        "image_id": 1010211000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010211/rgb/010211_000002.png",
+        "caption": "Let's move that red tape cutter to the right together.",
+        "bbox": [
+            0.471875,
+            0.8138888888888889,
+            0.13229166666666667,
+            0.15555555555555556
+        ],
+        "label": 165
+    },
+    {
+        "image_id": 1010148000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010148/rgb/010148_000004.png",
+        "caption": "Let's take that silver flyer cella upwards together.",
+        "bbox": [
+            0.23515625,
+            0.4791666666666667,
+            0.15364583333333334,
+            0.2212962962962963
+        ],
+        "label": 74
+    },
+    {
+        "image_id": 1010200000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010200/rgb/010200_000002.png",
+        "caption": "Let's move the black hammer to the right together.",
+        "bbox": [
+            0.5096354166666667,
+            0.611574074074074,
+            0.09010416666666667,
+            0.15648148148148147
+        ],
+        "label": 19
+    },
+    {
+        "image_id": 1010225000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010225/rgb/010225_000004.png",
+        "caption": "Let's move the plane to the right together.",
+        "bbox": [
+            0.32734375,
+            0.4023148148148148,
+            0.0359375,
+            0.05648148148148148
+        ],
+        "label": 10
+    },
+    {
+        "image_id": 1010207000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010207/rgb/010207_000004.png",
+        "caption": "Let's move that gray bolt down.",
+        "bbox": [
+            0.6549479166666666,
+            0.42916666666666664,
+            0.008854166666666666,
+            0.025
+        ],
+        "label": 106
+    },
+    {
+        "image_id": 1010262000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010262/rgb/010262_000003.png",
+        "caption": "Let's move this black conduit together.",
+        "bbox": [
+            0.5151041666666667,
+            0.4601851851851852,
+            0.21458333333333332,
+            0.21296296296296297
+        ],
+        "label": 121
+    },
+    {
+        "image_id": 1010272000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010272/rgb/010272_000003.png",
+        "caption": "Can you help me move this black pipe cutter to the left?",
+        "bbox": [
+            0.6296875,
+            0.6347222222222222,
+            0.11666666666666667,
+            0.1527777777777778
+        ],
+        "label": 68
+    },
+    {
+        "image_id": 1010278000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010278/rgb/010278_000003.png",
+        "caption": "Let's move the blue drill jig downward together.",
+        "bbox": [
+            0.5903645833333333,
+            0.4305555555555556,
+            0.1140625,
+            0.15555555555555556
+        ],
+        "label": 15
+    },
+    {
+        "image_id": 1010208000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010208/rgb/010208_000003.png",
+        "caption": "Can you help me move the light green grinding stone to the left?",
+        "bbox": [
+            0.76640625,
+            0.6018518518518519,
+            0.07864583333333333,
+            0.053703703703703705
+        ],
+        "label": 116
+    },
+    {
+        "image_id": 1010290000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010290/rgb/010290_000005.png",
+        "caption": "Let's move that red post-it to the right together.",
+        "bbox": [
+            0.37838541666666664,
+            0.5828703703703704,
+            0.07447916666666667,
+            0.062037037037037036
+        ],
+        "label": 135
+    },
+    {
+        "image_id": 1010177000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010177/rgb/010177_000005.png",
+        "caption": "Let's move the red fire extinguisher to the left together.",
+        "bbox": [
+            0.58203125,
+            0.49212962962962964,
+            0.11614583333333334,
+            0.08425925925925926
+        ],
+        "label": 177
+    },
+    {
+        "image_id": 1010262000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010262/rgb/010262_000003.png",
+        "caption": "Please move that white fluorescent light fuse downward.",
+        "bbox": [
+            0.7036458333333333,
+            0.5458333333333333,
+            0.036458333333333336,
+            0.03796296296296296
+        ],
+        "label": 137
+    },
+    {
+        "image_id": 1010170000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010170/rgb/010170_000001.png",
+        "caption": "Can you move that impact wrench upwards?",
+        "bbox": [
+            0.603125,
+            0.5398148148148149,
+            0.115625,
+            0.1037037037037037
+        ],
+        "label": 51
+    },
+    {
+        "image_id": 1010270000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010270/rgb/010270_000005.png",
+        "caption": "Let's move that green silicone sealant.",
+        "bbox": [
+            0.4200520833333333,
+            0.4615740740740741,
+            0.1359375,
+            0.05462962962962963
+        ],
+        "label": 113
+    },
+    {
+        "image_id": 1010238000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010238/rgb/010238_000005.png",
+        "caption": "Can you move these aviation scissors to the right?",
+        "bbox": [
+            0.5369791666666667,
+            0.5625,
+            0.10208333333333333,
+            0.14166666666666666
+        ],
+        "label": 78
+    },
+    {
+        "image_id": 1010262000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010262/rgb/010262_000002.png",
+        "caption": "Please move that yellow rust preventive to the left.",
+        "bbox": [
+            0.6138020833333333,
+            0.5259259259259259,
+            0.09635416666666667,
+            0.06481481481481481
+        ],
+        "label": 98
+    },
+    {
+        "image_id": 1010154000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010154/rgb/010154_000004.png",
+        "caption": "Let's move this silver silicone gun to the right together.",
+        "bbox": [
+            0.259375,
+            0.6027777777777777,
+            0.128125,
+            0.24074074074074073
+        ],
+        "label": 155
+    },
+    {
+        "image_id": 1010280000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010280/rgb/010280_000004.png",
+        "caption": "Let's move the gray drill jig upwards together.",
+        "bbox": [
+            0.5953125,
+            0.3763888888888889,
+            0.08541666666666667,
+            0.0824074074074074
+        ],
+        "label": 15
+    },
+    {
+        "image_id": 1010298000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010298/rgb/010298_000003.png",
+        "caption": "Let's move that white ice pack to the right.",
+        "bbox": [
+            0.33567708333333335,
+            0.5578703703703703,
+            0.0796875,
+            0.08981481481481482
+        ],
+        "label": 156
+    },
+    {
+        "image_id": 1010121000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010121/rgb/010121_000001.png",
+        "caption": "Let's move the pipe ranch upward together.",
+        "bbox": [
+            0.64296875,
+            0.7032407407407407,
+            0.0828125,
+            0.18425925925925926
+        ],
+        "label": 66
+    },
+    {
+        "image_id": 1010231000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010231/rgb/010231_000004.png",
+        "caption": "Let's move the gray duct tape upwards.",
+        "bbox": [
+            0.6770833333333334,
+            0.5861111111111111,
+            0.04791666666666667,
+            0.07777777777777778
+        ],
+        "label": 11
+    },
+    {
+        "image_id": 1010307000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010307/rgb/010307_000003.png",
+        "caption": "Let's move that black soldering iron to the left.",
+        "bbox": [
+            0.3026041666666667,
+            0.6375,
+            0.05,
+            0.15092592592592594
+        ],
+        "label": 50
+    },
+    {
+        "image_id": 1010142000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010142/rgb/010142_000004.png",
+        "caption": "Find the object 179.",
+        "bbox": [
+            0.5864583333333333,
+            0.5583333333333333,
+            0.03958333333333333,
+            0.044444444444444446
+        ],
+        "label": 179
+    },
+    {
+        "image_id": 1010241000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010241/rgb/010241_000001.png",
+        "caption": "Let's move this black stripper upwards.",
+        "bbox": [
+            0.26484375,
+            0.6620370370370371,
+            0.0671875,
+            0.11296296296296296
+        ],
+        "label": 35
+    },
+    {
+        "image_id": 1010315000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010315/rgb/010315_000005.png",
+        "caption": "Let's move this white light bulb upwards.",
+        "bbox": [
+            0.62734375,
+            0.2513888888888889,
+            0.04739583333333333,
+            0.062037037037037036
+        ],
+        "label": 120
+    },
+    {
+        "image_id": 1010293000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010293/rgb/010293_000003.png",
+        "caption": "Can you move that white light bulb to the right?",
+        "bbox": [
+            0.5830729166666667,
+            0.7337962962962963,
+            0.03697916666666667,
+            0.05648148148148148
+        ],
+        "label": 120
+    },
+    {
+        "image_id": 1010233000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010233/rgb/010233_000003.png",
+        "caption": "Please take away this silver taper gauge.",
+        "bbox": [
+            0.5763020833333333,
+            0.6231481481481481,
+            0.06302083333333333,
+            0.08888888888888889
+        ],
+        "label": 63
+    },
+    {
+        "image_id": 1010133000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010133/rgb/010133_000002.png",
+        "caption": "Let's move that black stopwatch downward together.",
+        "bbox": [
+            0.47942708333333334,
+            0.6805555555555556,
+            0.025520833333333333,
+            0.0962962962962963
+        ],
+        "label": 179
+    },
+    {
+        "image_id": 1010312000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010312/rgb/010312_000005.png",
+        "caption": "Please move that blue folding saw upwards.",
+        "bbox": [
+            0.44088541666666664,
+            0.425,
+            0.1171875,
+            0.08333333333333333
+        ],
+        "label": 55
+    },
+    {
+        "image_id": 1010218000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010218/rgb/010218_000005.png",
+        "caption": "Can you move the tan planer to the left?",
+        "bbox": [
+            0.8119791666666667,
+            0.6037037037037037,
+            0.05625,
+            0.13148148148148148
+        ],
+        "label": 10
+    },
+    {
+        "image_id": 1010153000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010153/rgb/010153_000001.png",
+        "caption": "Can you help me put away that black pencil holder?",
+        "bbox": [
+            0.42942708333333335,
+            0.4564814814814815,
+            0.0453125,
+            0.09814814814814815
+        ],
+        "label": 158
+    },
+    {
+        "image_id": 1010199000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010199/rgb/010199_000003.png",
+        "caption": "Can you move this silver pin gauge upward?",
+        "bbox": [
+            0.7630208333333334,
+            0.5083333333333333,
+            0.042708333333333334,
+            0.020370370370370372
+        ],
+        "label": 75
+    },
+    {
+        "image_id": 1010144000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010144/rgb/010144_000005.png",
+        "caption": "Can you move that silver combination square down?",
+        "bbox": [
+            0.2872395833333333,
+            0.3685185185185185,
+            0.0953125,
+            0.17222222222222222
+        ],
+        "label": 60
+    },
+    {
+        "image_id": 1010184000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010184/rgb/010184_000003.png",
+        "caption": "Can you move that gray palm tree to the right?",
+        "bbox": [
+            0.30130208333333336,
+            0.6685185185185185,
+            0.15052083333333333,
+            0.1925925925925926
+        ],
+        "label": 70
+    },
+    {
+        "image_id": 1010249000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010249/rgb/010249_000005.png",
+        "caption": "Can you help me move this silver hinged handle to the right?",
+        "bbox": [
+            0.603125,
+            0.49398148148148147,
+            0.08020833333333334,
+            0.06944444444444445
+        ],
+        "label": 81
+    },
+    {
+        "image_id": 1010242000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010242/rgb/010242_000005.png",
+        "caption": "Let's move that yellow ax together.",
+        "bbox": [
+            0.7513020833333334,
+            0.7101851851851851,
+            0.15572916666666667,
+            0.3537037037037037
+        ],
+        "label": 79
+    },
+    {
+        "image_id": 1010221000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010221/rgb/010221_000004.png",
+        "caption": "Can you help me get this tan planer down?",
+        "bbox": [
+            0.5979166666666667,
+            0.6814814814814815,
+            0.078125,
+            0.10555555555555556
+        ],
+        "label": 10
+    },
+    {
+        "image_id": 1010126000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010126/rgb/010126_000003.png",
+        "caption": "Let's move the white earmuffs to the left together.",
+        "bbox": [
+            0.3346354166666667,
+            0.7398148148148148,
+            0.09322916666666667,
+            0.19814814814814816
+        ],
+        "label": 169
+    },
+    {
+        "image_id": 1010304000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010304/rgb/010304_000002.png",
+        "caption": "Please move the gold glass cutter upwards.",
+        "bbox": [
+            0.2375,
+            0.6861111111111111,
+            0.06979166666666667,
+            0.07962962962962963
+        ],
+        "label": 45
+    },
+    {
+        "image_id": 1010222000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010222/rgb/010222_000005.png",
+        "caption": "Let's move that torque wrench to the right together.",
+        "bbox": [
+            0.32265625,
+            0.39444444444444443,
+            0.0578125,
+            0.16666666666666666
+        ],
+        "label": 64
+    },
+    {
+        "image_id": 1010173000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010173/rgb/010173_000005.png",
+        "caption": "Can you help me move that red lava cone to the left?",
+        "bbox": [
+            0.6651041666666667,
+            0.42824074074074076,
+            0.10833333333333334,
+            0.33240740740740743
+        ],
+        "label": 178
+    },
+    {
+        "image_id": 1010314000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010314/rgb/010314_000005.png",
+        "caption": "Can you move that blue punch to the right?",
+        "bbox": [
+            0.8184895833333333,
+            0.3888888888888889,
+            0.20260416666666667,
+            0.20555555555555555
+        ],
+        "label": 133
+    },
+    {
+        "image_id": 1010174000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010174/rgb/010174_000005.png",
+        "caption": "Could you help me move the glove to the left?",
+        "bbox": [
+            0.5109375,
+            0.6407407407407407,
+            0.06979166666666667,
+            0.11296296296296296
+        ],
+        "label": 185
+    },
+    {
+        "image_id": 1010240000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010240/rgb/010240_000005.png",
+        "caption": "Let's move that yellow stripper upwards.",
+        "bbox": [
+            0.3924479166666667,
+            0.20046296296296295,
+            0.0734375,
+            0.026851851851851852
+        ],
+        "label": 35
+    },
+    {
+        "image_id": 1010203000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010203/rgb/010203_000003.png",
+        "caption": "Could you help me move that pin gauge to the left?",
+        "bbox": [
+            0.3106770833333333,
+            0.4476851851851852,
+            0.015104166666666667,
+            0.025
+        ],
+        "label": 75
+    },
+    {
+        "image_id": 1010301000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010301/rgb/010301_000002.png",
+        "caption": "Let's move that black label printer to the left.",
+        "bbox": [
+            0.2526041666666667,
+            0.5412037037037037,
+            0.078125,
+            0.06574074074074074
+        ],
+        "label": 149
+    },
+    {
+        "image_id": 1010191000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010191/rgb/010191_000001.png",
+        "caption": "Let's move the pink document cutter to the left together.",
+        "bbox": [
+            0.5216145833333333,
+            0.5611111111111111,
+            0.09010416666666667,
+            0.11296296296296296
+        ],
+        "label": 150
+    },
+    {
+        "image_id": 1010157000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010157/rgb/010157_000001.png",
+        "caption": "Let's move that blue box tape down.",
+        "bbox": [
+            0.7528645833333333,
+            0.5666666666666667,
+            0.09427083333333333,
+            0.13148148148148148
+        ],
+        "label": 151
+    },
+    {
+        "image_id": 1010275000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010275/rgb/010275_000001.png",
+        "caption": "Please move that gray taper gauge to the right.",
+        "bbox": [
+            0.6494791666666667,
+            0.7402777777777778,
+            0.06354166666666666,
+            0.0787037037037037
+        ],
+        "label": 63
+    },
+    {
+        "image_id": 1010161000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010161/rgb/010161_000002.png",
+        "caption": "Can you move the cutter knife upwards?",
+        "bbox": [
+            0.5635416666666667,
+            0.5074074074074074,
+            0.052083333333333336,
+            0.06111111111111111
+        ],
+        "label": 164
+    },
+    {
+        "image_id": 1010198000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010198/rgb/010198_000001.png",
+        "caption": "Can you move the gray palm tree to the left?",
+        "bbox": [
+            0.6552083333333333,
+            0.2810185185185185,
+            0.08958333333333333,
+            0.2490740740740741
+        ],
+        "label": 70
+    },
+    {
+        "image_id": 1010169000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010169/rgb/010169_000005.png",
+        "caption": "Let's move the yellow taka upwards together.",
+        "bbox": [
+            0.8065104166666667,
+            0.4875,
+            0.10989583333333333,
+            0.1175925925925926
+        ],
+        "label": 62
+    },
+    {
+        "image_id": 1010127000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010127/rgb/010127_000003.png",
+        "caption": "Can you move this white megaphone?",
+        "bbox": [
+            0.44557291666666665,
+            0.7166666666666667,
+            0.11197916666666667,
+            0.22777777777777777
+        ],
+        "label": 172
+    },
+    {
+        "image_id": 1010185000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010185/rgb/010185_000003.png",
+        "caption": "Could you move this hookspanner downwards?",
+        "bbox": [
+            0.7052083333333333,
+            0.6314814814814815,
+            0.0375,
+            0.06481481481481481
+        ],
+        "label": 80
+    },
+    {
+        "image_id": 1010299000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010299/rgb/010299_000001.png",
+        "caption": "Can you help me move this silver beaker upwards?",
+        "bbox": [
+            0.7940104166666667,
+            0.45925925925925926,
+            0.03177083333333333,
+            0.05185185185185185
+        ],
+        "label": 160
+    },
+    {
+        "image_id": 1010130000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010130/rgb/010130_000001.png",
+        "caption": "Let's move that crimson fire extinguisher to the right.",
+        "bbox": [
+            0.5002604166666667,
+            0.39537037037037037,
+            0.04114583333333333,
+            0.19074074074074074
+        ],
+        "label": 177
+    },
+    {
+        "image_id": 1010133000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010133/rgb/010133_000001.png",
+        "caption": "Could you please move the gray gloves to the top?",
+        "bbox": [
+            0.5265625,
+            0.7305555555555555,
+            0.06979166666666667,
+            0.1425925925925926
+        ],
+        "label": 185
+    },
+    {
+        "image_id": 1010142000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010142/rgb/010142_000004.png",
+        "caption": "Find the object 179.",
+        "bbox": [
+            0.5864583333333333,
+            0.5583333333333333,
+            0.03958333333333333,
+            0.044444444444444446
+        ],
+        "label": 179
+    },
+    {
+        "image_id": 1010193000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010193/rgb/010193_000004.png",
+        "caption": "Can you help me move that white silica gel upward?",
+        "bbox": [
+            0.8158854166666667,
+            0.47314814814814815,
+            0.0484375,
+            0.04814814814814815
+        ],
+        "label": 154
+    },
+    {
+        "image_id": 1010234000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010234/rgb/010234_000004.png",
+        "caption": "Let's move that white power strip down.",
+        "bbox": [
+            0.4234375,
+            0.5648148148148148,
+            0.11875,
+            0.08518518518518518
+        ],
+        "label": 188
+    },
+    {
+        "image_id": 1010137000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010137/rgb/010137_000001.png",
+        "caption": "Let's move the white megaphone to the left.",
+        "bbox": [
+            0.37473958333333335,
+            0.8083333333333333,
+            0.10260416666666666,
+            0.25925925925925924
+        ],
+        "label": 172
+    },
+    {
+        "image_id": 1010127000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010127/rgb/010127_000001.png",
+        "caption": "Let's move the black gas mask to the left together.",
+        "bbox": [
+            0.57734375,
+            0.5680555555555555,
+            0.09010416666666667,
+            0.08425925925925926
+        ],
+        "label": 173
+    },
+    {
+        "image_id": 1010274000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010274/rgb/010274_000002.png",
+        "caption": "Can you help me move this triangle to the left?",
+        "bbox": [
+            0.7546875,
+            0.6643518518518519,
+            0.17083333333333334,
+            0.15092592592592594
+        ],
+        "label": 30
+    },
+    {
+        "image_id": 1010146000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010146/rgb/010146_000005.png",
+        "caption": "Let's get rid of this gray grabhook together.",
+        "bbox": [
+            0.7184895833333333,
+            0.2847222222222222,
+            0.0265625,
+            0.03611111111111111
+        ],
+        "label": 5
+    },
+    {
+        "image_id": 1010202000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010202/rgb/010202_000002.png",
+        "caption": "Let's move these bolt cutters to the right together.",
+        "bbox": [
+            0.5768229166666666,
+            0.4671296296296296,
+            0.12552083333333333,
+            0.08796296296296297
+        ],
+        "label": 26
+    },
+    {
+        "image_id": 1010258000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010258/rgb/010258_000001.png",
+        "caption": "Let's get rid of this black impact ranch together.",
+        "bbox": [
+            0.39453125,
+            0.36064814814814816,
+            0.09322916666666667,
+            0.13425925925925927
+        ],
+        "label": 51
+    },
+    {
+        "image_id": 1010211000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010211/rgb/010211_000001.png",
+        "caption": "Let's move that tape cutter upward together.",
+        "bbox": [
+            0.2078125,
+            0.5444444444444444,
+            0.07604166666666666,
+            0.10740740740740741
+        ],
+        "label": 165
+    },
+    {
+        "image_id": 1010311000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010311/rgb/010311_000003.png",
+        "caption": "Can you help me move that black shovel upwards?",
+        "bbox": [
+            0.43776041666666665,
+            0.48518518518518516,
+            0.10677083333333333,
+            0.2074074074074074
+        ],
+        "label": 31
+    },
+    {
+        "image_id": 1010230000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010230/rgb/010230_000003.png",
+        "caption": "Let's move this gray pipe expander to the right.",
+        "bbox": [
+            0.6713541666666667,
+            0.5800925925925926,
+            0.078125,
+            0.09351851851851851
+        ],
+        "label": 69
+    },
+    {
+        "image_id": 1010227000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010227/rgb/010227_000001.png",
+        "caption": "Let's move that silver band saw to the left together.",
+        "bbox": [
+            0.3984375,
+            0.5083333333333333,
+            0.34270833333333334,
+            0.40925925925925927
+        ],
+        "label": 24
+    },
+    {
+        "image_id": 1010268000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010268/rgb/010268_000005.png",
+        "caption": "Let's push the blue punch downwards",
+        "bbox": [
+            0.5114583333333333,
+            0.44027777777777777,
+            0.10625,
+            0.14907407407407408
+        ],
+        "label": 133
+    },
+    {
+        "image_id": 1010189000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010189/rgb/010189_000002.png",
+        "caption": "Can you move this ivory silica gel upwards?",
+        "bbox": [
+            0.16666666666666666,
+            0.6657407407407407,
+            0.04583333333333333,
+            0.044444444444444446
+        ],
+        "label": 154
+    },
+    {
+        "image_id": 1010227000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010227/rgb/010227_000002.png",
+        "caption": "Can you help me move that silver pulley to the right?",
+        "bbox": [
+            0.53203125,
+            0.611574074074074,
+            0.0203125,
+            0.06018518518518518
+        ],
+        "label": 12
+    },
+    {
+        "image_id": 1010301000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010301/rgb/010301_000005.png",
+        "caption": "Let's move that white label printer down together.",
+        "bbox": [
+            0.44375,
+            0.4842592592592593,
+            0.08541666666666667,
+            0.06666666666666667
+        ],
+        "label": 149
+    },
+    {
+        "image_id": 1010205000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010205/rgb/010205_000004.png",
+        "caption": "Can you move the red rope saw down?",
+        "bbox": [
+            0.5450520833333333,
+            0.4861111111111111,
+            0.11614583333333334,
+            0.06111111111111111
+        ],
+        "label": 57
+    },
+    {
+        "image_id": 1010299000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010299/rgb/010299_000004.png",
+        "caption": "Please move this white cutter knife downward.",
+        "bbox": [
+            0.17708333333333334,
+            0.649074074074074,
+            0.05520833333333333,
+            0.06111111111111111
+        ],
+        "label": 164
+    },
+    {
+        "image_id": 1010180000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010180/rgb/010180_000003.png",
+        "caption": "Let's move that ocher work raincoat down.",
+        "bbox": [
+            0.39114583333333336,
+            0.5023148148148148,
+            0.15416666666666667,
+            0.15833333333333333
+        ],
+        "label": 184
+    },
+    {
+        "image_id": 1010271000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010271/rgb/010271_000002.png",
+        "caption": "Could you move that white laser rangefinder to the right?",
+        "bbox": [
+            0.6916666666666667,
+            0.7027777777777777,
+            0.0625,
+            0.04814814814814815
+        ],
+        "label": 16
+    },
+    {
+        "image_id": 1010164000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010164/rgb/010164_000005.png",
+        "caption": "Can you move that pulley to the right?",
+        "bbox": [
+            0.7458333333333333,
+            0.6268518518518519,
+            0.021875,
+            0.03333333333333333
+        ],
+        "label": 12
+    },
+    {
+        "image_id": 1010260000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010260/rgb/010260_000005.png",
+        "caption": "Could you help me move that yellow mold spring to the right?",
+        "bbox": [
+            0.7145833333333333,
+            0.6388888888888888,
+            0.013541666666666667,
+            0.016666666666666666
+        ],
+        "label": 94
+    },
+    {
+        "image_id": 1010147000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010147/rgb/010147_000003.png",
+        "caption": "Can you help me move this red grabhook upward?",
+        "bbox": [
+            0.5638020833333334,
+            0.6671296296296296,
+            0.03802083333333333,
+            0.05092592592592592
+        ],
+        "label": 5
+    },
+    {
+        "image_id": 1010126000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010126/rgb/010126_000004.png",
+        "caption": "Could you move that red fire extinguisher to the left?",
+        "bbox": [
+            0.4953125,
+            0.512962962962963,
+            0.034375,
+            0.10555555555555556
+        ],
+        "label": 177
+    },
+    {
+        "image_id": 1010249000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010249/rgb/010249_000001.png",
+        "caption": "Let's move this electric drill together.",
+        "bbox": [
+            0.3692708333333333,
+            0.3189814814814815,
+            0.10833333333333334,
+            0.07685185185185185
+        ],
+        "label": 53
+    },
+    {
+        "image_id": 1010126000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010126/rgb/010126_000004.png",
+        "caption": "Could you move those ivory earmuffs to the left?",
+        "bbox": [
+            0.47552083333333334,
+            0.8319444444444445,
+            0.04895833333333333,
+            0.14537037037037037
+        ],
+        "label": 169
+    },
+    {
+        "image_id": 1010317000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010317/rgb/010317_000001.png",
+        "caption": "Let's move that pink post-it note to the left together.",
+        "bbox": [
+            0.33984375,
+            0.5879629629629629,
+            0.0484375,
+            0.07592592592592592
+        ],
+        "label": 135
+    },
+    {
+        "image_id": 1010161000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010161/rgb/010161_000005.png",
+        "caption": "Can you move that glue gun down?",
+        "bbox": [
+            0.5307291666666667,
+            0.6532407407407408,
+            0.1875,
+            0.10833333333333334
+        ],
+        "label": 147
+    },
+    {
+        "image_id": 1010273000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010273/rgb/010273_000002.png",
+        "caption": "Let's move that yellow plier to the right together.",
+        "bbox": [
+            0.60078125,
+            0.5277777777777778,
+            0.06302083333333333,
+            0.06111111111111111
+        ],
+        "label": 73
+    },
+    {
+        "image_id": 1010313000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010313/rgb/010313_000002.png",
+        "caption": "Can you help me get rid of that silver folding saw?",
+        "bbox": [
+            0.5247395833333334,
+            0.6467592592592593,
+            0.1953125,
+            0.13796296296296295
+        ],
+        "label": 55
+    },
+    {
+        "image_id": 1010252000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010252/rgb/010252_000005.png",
+        "caption": "Please move this black saw to the left.",
+        "bbox": [
+            0.33229166666666665,
+            0.5231481481481481,
+            0.303125,
+            0.34074074074074073
+        ],
+        "label": 65
+    },
+    {
+        "image_id": 1010230000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010230/rgb/010230_000002.png",
+        "caption": "Let's move that yellow taka",
+        "bbox": [
+            0.7091145833333333,
+            0.5282407407407408,
+            0.11302083333333333,
+            0.11944444444444445
+        ],
+        "label": 62
+    },
+    {
+        "image_id": 1010247000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010247/rgb/010247_000004.png",
+        "caption": "Can you move the platinum pulley down?",
+        "bbox": [
+            0.7375,
+            0.5486111111111112,
+            0.029166666666666667,
+            0.03796296296296296
+        ],
+        "label": 12
+    },
+    {
+        "image_id": 1010129000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010129/rgb/010129_000005.png",
+        "caption": "Can you help me move this red fire extinguisher to the left?",
+        "bbox": [
+            0.5065104166666666,
+            0.8203703703703704,
+            0.0578125,
+            0.21296296296296297
+        ],
+        "label": 177
+    },
+    {
+        "image_id": 1010310000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010310/rgb/010310_000001.png",
+        "caption": "Please move this gray sound level meter upwards.",
+        "bbox": [
+            0.5114583333333333,
+            0.5481481481481482,
+            0.05416666666666667,
+            0.05
+        ],
+        "label": 32
+    },
+    {
+        "image_id": 1010262000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010262/rgb/010262_000004.png",
+        "caption": "Let's move this blue rust inhibitor down.",
+        "bbox": [
+            0.5989583333333334,
+            0.32083333333333336,
+            0.04583333333333333,
+            0.17314814814814813
+        ],
+        "label": 98
+    },
+    {
+        "image_id": 1010209000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010209/rgb/010209_000001.png",
+        "caption": "Let's move those red multi-purpose scissors.",
+        "bbox": [
+            0.6434895833333333,
+            0.5449074074074074,
+            0.15572916666666667,
+            0.075
+        ],
+        "label": 89
+    },
+    {
+        "image_id": 1010191000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010191/rgb/010191_000004.png",
+        "caption": "Please move that orange silicone gun upwards.",
+        "bbox": [
+            0.3140625,
+            0.5740740740740741,
+            0.14895833333333333,
+            0.1648148148148148
+        ],
+        "label": 155
+    },
+    {
+        "image_id": 1010279000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010279/rgb/010279_000004.png",
+        "caption": "Can you move that red pipe wrench?",
+        "bbox": [
+            0.8833333333333333,
+            0.5782407407407407,
+            0.14270833333333333,
+            0.1787037037037037
+        ],
+        "label": 66
+    },
+    {
+        "image_id": 1010192000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010192/rgb/010192_000003.png",
+        "caption": "Please move that ivory Styrofoam box to the left.",
+        "bbox": [
+            0.20755208333333333,
+            0.4888888888888889,
+            0.1953125,
+            0.26666666666666666
+        ],
+        "label": 153
+    },
+    {
+        "image_id": 1010296000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010296/rgb/010296_000002.png",
+        "caption": "Can you move that silicone gun to the right?",
+        "bbox": [
+            0.2955729166666667,
+            0.6101851851851852,
+            0.09322916666666667,
+            0.13518518518518519
+        ],
+        "label": 155
+    },
+    {
+        "image_id": 1010257000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010257/rgb/010257_000001.png",
+        "caption": "Let's move that orange level to the right together.",
+        "bbox": [
+            0.8044270833333333,
+            0.562037037037037,
+            0.17447916666666666,
+            0.06296296296296296
+        ],
+        "label": 33
+    },
+    {
+        "image_id": 1010247000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010247/rgb/010247_000003.png",
+        "caption": "Can you help me move the jigsaw down?",
+        "bbox": [
+            0.43385416666666665,
+            0.1587962962962963,
+            0.115625,
+            0.22314814814814815
+        ],
+        "label": 58
+    },
+    {
+        "image_id": 1010217000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010217/rgb/010217_000005.png",
+        "caption": "Can you help me move the red wallpapering knife downwards?",
+        "bbox": [
+            0.45598958333333334,
+            0.30324074074074076,
+            0.0984375,
+            0.03611111111111111
+        ],
+        "label": 13
+    },
+    {
+        "image_id": 1010235000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010235/rgb/010235_000004.png",
+        "caption": "Can you help me move this black radio to the right?",
+        "bbox": [
+            0.5140625,
+            0.4009259259259259,
+            0.06770833333333333,
+            0.03148148148148148
+        ],
+        "label": 189
+    },
+    {
+        "image_id": 1010122000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010122/rgb/010122_000005.png",
+        "caption": "Could you please move these safety glasses upwards?",
+        "bbox": [
+            0.5286458333333334,
+            0.6703703703703704,
+            0.06041666666666667,
+            0.053703703703703705
+        ],
+        "label": 175
+    },
+    {
+        "image_id": 1010276000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010276/rgb/010276_000004.png",
+        "caption": "Let's get rid of that black fogger together.",
+        "bbox": [
+            0.5770833333333333,
+            0.34629629629629627,
+            0.12083333333333333,
+            0.17037037037037037
+        ],
+        "label": 41
+    },
+    {
+        "image_id": 1010244000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010244/rgb/010244_000004.png",
+        "caption": "Let's move this laser range finder to the right together.",
+        "bbox": [
+            0.42109375,
+            0.399537037037037,
+            0.05364583333333333,
+            0.04537037037037037
+        ],
+        "label": 16
+    },
+    {
+        "image_id": 1010127000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010127/rgb/010127_000004.png",
+        "caption": "Let's move those earmuffs upwards.",
+        "bbox": [
+            0.5158854166666667,
+            0.6236111111111111,
+            0.06510416666666667,
+            0.0824074074074074
+        ],
+        "label": 169
+    },
+    {
+        "image_id": 1010247000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010247/rgb/010247_000003.png",
+        "caption": "Let's move that silver pulley to the right together.",
+        "bbox": [
+            0.3026041666666667,
+            0.2828703703703704,
+            0.011458333333333333,
+            0.017592592592592594
+        ],
+        "label": 12
+    },
+    {
+        "image_id": 1010257000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010257/rgb/010257_000005.png",
+        "caption": "Let's move that black protractor.",
+        "bbox": [
+            0.53984375,
+            0.4847222222222222,
+            0.09427083333333333,
+            0.05648148148148148
+        ],
+        "label": 27
+    },
+    {
+        "image_id": 1010187000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010187/rgb/010187_000004.png",
+        "caption": "Please move the gray set anchor to the right.",
+        "bbox": [
+            0.7341145833333333,
+            0.32685185185185184,
+            0.043229166666666666,
+            0.046296296296296294
+        ],
+        "label": 132
+    },
+    {
+        "image_id": 1010138000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010138/rgb/010138_000004.png",
+        "caption": "Could you move the blue earmuffs down?",
+        "bbox": [
+            0.4942708333333333,
+            0.6402777777777777,
+            0.017708333333333333,
+            0.028703703703703703
+        ],
+        "label": 170
+    },
+    {
+        "image_id": 1010256000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010256/rgb/010256_000003.png",
+        "caption": "Let's get this silver bandsaw out of the way.",
+        "bbox": [
+            0.6151041666666667,
+            0.32222222222222224,
+            0.25625,
+            0.17592592592592593
+        ],
+        "label": 24
+    },
+    {
+        "image_id": 1010272000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010272/rgb/010272_000005.png",
+        "caption": "Could you help me move that gray riveter to the right?",
+        "bbox": [
+            0.3065104166666667,
+            0.38055555555555554,
+            0.1109375,
+            0.07592592592592592
+        ],
+        "label": 17
+    },
+    {
+        "image_id": 1010297000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010297/rgb/010297_000005.png",
+        "caption": "Let's move that label printer together.",
+        "bbox": [
+            0.38125,
+            0.5722222222222222,
+            0.06770833333333333,
+            0.05555555555555555
+        ],
+        "label": 149
+    },
+    {
+        "image_id": 1010228000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010228/rgb/010228_000002.png",
+        "caption": "Let's move that white duct tape to the right together.",
+        "bbox": [
+            0.32916666666666666,
+            0.3453703703703704,
+            0.04583333333333333,
+            0.05740740740740741
+        ],
+        "label": 11
+    },
+    {
+        "image_id": 1010253000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010253/rgb/010253_000003.png",
+        "caption": "Let's move this red hot air blower.",
+        "bbox": [
+            0.2669270833333333,
+            0.6824074074074075,
+            0.22552083333333334,
+            0.1925925925925926
+        ],
+        "label": 42
+    },
+    {
+        "image_id": 1010255000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010255/rgb/010255_000005.png",
+        "caption": "Let's move the tile cutter to the right together.",
+        "bbox": [
+            0.7244791666666667,
+            0.3907407407407407,
+            0.24895833333333334,
+            0.2722222222222222
+        ],
+        "label": 61
+    },
+    {
+        "image_id": 1010141000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010141/rgb/010141_000001.png",
+        "caption": "Let's move the safety glasses together.",
+        "bbox": [
+            0.490625,
+            0.49444444444444446,
+            0.06041666666666667,
+            0.05185185185185185
+        ],
+        "label": 175
+    },
+    {
+        "image_id": 1010190000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010190/rgb/010190_000001.png",
+        "caption": "Let's move the paper cushion together",
+        "bbox": [
+            0.5924479166666666,
+            0.5060185185185185,
+            0.16510416666666666,
+            0.08055555555555556
+        ],
+        "label": 162
+    },
+    {
+        "image_id": 1010170000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010170/rgb/010170_000001.png",
+        "caption": "Let's move this plastering knife to the right.",
+        "bbox": [
+            0.76875,
+            0.46944444444444444,
+            0.16354166666666667,
+            0.08888888888888889
+        ],
+        "label": 22
+    },
+    {
+        "image_id": 1010245000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010245/rgb/010245_000003.png",
+        "caption": "Let's move that bolt cutter to the left.",
+        "bbox": [
+            0.6348958333333333,
+            0.5962962962962963,
+            0.08229166666666667,
+            0.10555555555555556
+        ],
+        "label": 26
+    },
+    {
+        "image_id": 1010195000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010195/rgb/010195_000005.png",
+        "caption": "Let's move that green cutter knife to the right.",
+        "bbox": [
+            0.22161458333333334,
+            0.5763888888888888,
+            0.0140625,
+            0.04351851851851852
+        ],
+        "label": 164
+    },
+    {
+        "image_id": 1010169000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010169/rgb/010169_000001.png",
+        "caption": "Could you help me move that gear puller upwards?",
+        "bbox": [
+            0.34427083333333336,
+            0.5583333333333333,
+            0.052083333333333336,
+            0.13518518518518519
+        ],
+        "label": 6
+    },
+    {
+        "image_id": 1010315000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010315/rgb/010315_000003.png",
+        "caption": "Let's move that same color bracket to the left.",
+        "bbox": [
+            0.5927083333333333,
+            0.6018518518518519,
+            0.04895833333333333,
+            0.07037037037037037
+        ],
+        "label": 107
+    },
+    {
+        "image_id": 1010146000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010146/rgb/010146_000004.png",
+        "caption": "Find the object 5.",
+        "bbox": [
+            0.6083333333333333,
+            0.5930555555555556,
+            0.046875,
+            0.04537037037037037
+        ],
+        "label": 5
+    },
+    {
+        "image_id": 1010296000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010296/rgb/010296_000003.png",
+        "caption": "Could you help me move that blue index card upwards?",
+        "bbox": [
+            0.6184895833333334,
+            0.5162037037037037,
+            0.08177083333333333,
+            0.07685185185185185
+        ],
+        "label": 159
+    },
+    {
+        "image_id": 1010224000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010224/rgb/010224_000004.png",
+        "caption": "Can you help me move this glass absorber to the right?",
+        "bbox": [
+            0.7565104166666666,
+            0.6203703703703703,
+            0.1015625,
+            0.1685185185185185
+        ],
+        "label": 46
+    },
+    {
+        "image_id": 1010230000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010230/rgb/010230_000002.png",
+        "caption": "Can you help me move this multimeter down?",
+        "bbox": [
+            0.5729166666666666,
+            0.3768518518518518,
+            0.0625,
+            0.044444444444444446
+        ],
+        "label": 20
+    },
+    {
+        "image_id": 1010209000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010209/rgb/010209_000003.png",
+        "caption": "Let's move the red multi-purpose scissors downward.",
+        "bbox": [
+            0.46015625,
+            0.4773148148148148,
+            0.06197916666666667,
+            0.1527777777777778
+        ],
+        "label": 89
+    },
+    {
+        "image_id": 1010196000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010196/rgb/010196_000004.png",
+        "caption": "Can you help me move that red twine to the right?",
+        "bbox": [
+            0.5640625,
+            0.3976851851851852,
+            0.07916666666666666,
+            0.16018518518518518
+        ],
+        "label": 152
+    },
+    {
+        "image_id": 1010213000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010213/rgb/010213_000004.png",
+        "caption": "Please remove that blue Danpla box.",
+        "bbox": [
+            0.6283854166666667,
+            0.4388888888888889,
+            0.2911458333333333,
+            0.4351851851851852
+        ],
+        "label": 148
+    },
+    {
+        "image_id": 1010145000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010145/rgb/010145_000001.png",
+        "caption": "Let's get rid of this blue folding saw.",
+        "bbox": [
+            0.85625,
+            0.5069444444444444,
+            0.16666666666666666,
+            0.13240740740740742
+        ],
+        "label": 55
+    },
+    {
+        "image_id": 1010264000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010264/rgb/010264_000002.png",
+        "caption": "Please move this black capacitor to the left.",
+        "bbox": [
+            0.53828125,
+            0.5592592592592592,
+            0.016145833333333335,
+            0.040740740740740744
+        ],
+        "label": 125
+    },
+    {
+        "image_id": 1010209000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010209/rgb/010209_000004.png",
+        "caption": "Let\u2019s move that ivory colored fluorescent light fuse together.",
+        "bbox": [
+            0.6151041666666667,
+            0.4587962962962963,
+            0.027083333333333334,
+            0.041666666666666664
+        ],
+        "label": 137
+    },
+    {
+        "image_id": 1010198000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010198/rgb/010198_000004.png",
+        "caption": "Can you help me get this yellow taka down?",
+        "bbox": [
+            0.48671875,
+            0.30462962962962964,
+            0.05572916666666667,
+            0.09814814814814815
+        ],
+        "label": 62
+    },
+    {
+        "image_id": 1010278000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010278/rgb/010278_000005.png",
+        "caption": "Let's move this flyer cella upwards.",
+        "bbox": [
+            0.24739583333333334,
+            0.35138888888888886,
+            0.115625,
+            0.1398148148148148
+        ],
+        "label": 74
+    },
+    {
+        "image_id": 1010290000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010290/rgb/010290_000005.png",
+        "caption": "Let's move the white label paper to the left together.",
+        "bbox": [
+            0.4856770833333333,
+            0.5842592592592593,
+            0.0984375,
+            0.08333333333333333
+        ],
+        "label": 92
+    },
+    {
+        "image_id": 1010210000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010210/rgb/010210_000005.png",
+        "caption": "Let's move the document cutter to the left.",
+        "bbox": [
+            0.44036458333333334,
+            0.6444444444444445,
+            0.1453125,
+            0.06851851851851852
+        ],
+        "label": 150
+    },
+    {
+        "image_id": 1010201000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010201/rgb/010201_000001.png",
+        "caption": "Let's move this nipper to the right",
+        "bbox": [
+            0.6442708333333333,
+            0.7870370370370371,
+            0.10625,
+            0.12962962962962962
+        ],
+        "label": 9
+    },
+    {
+        "image_id": 1010204000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010204/rgb/010204_000005.png",
+        "caption": "Can you help me move this saw down?",
+        "bbox": [
+            0.28151041666666665,
+            0.4212962962962963,
+            0.20260416666666667,
+            0.1537037037037037
+        ],
+        "label": 65
+    },
+    {
+        "image_id": 1010267000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010267/rgb/010267_000003.png",
+        "caption": "Let's move that black roller bearing upwards.",
+        "bbox": [
+            0.73828125,
+            0.5277777777777778,
+            0.03802083333333333,
+            0.05
+        ],
+        "label": 93
+    },
+    {
+        "image_id": 1010275000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010275/rgb/010275_000004.png",
+        "caption": "Can you move the white fogger to the left?",
+        "bbox": [
+            0.35572916666666665,
+            0.6055555555555555,
+            0.13229166666666667,
+            0.18703703703703703
+        ],
+        "label": 41
+    },
+    {
+        "image_id": 1010172000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010172/rgb/010172_000001.png",
+        "caption": "Please move the white taper gauge downward.",
+        "bbox": [
+            0.7955729166666666,
+            0.4009259259259259,
+            0.0890625,
+            0.02962962962962963
+        ],
+        "label": 63
+    },
+    {
+        "image_id": 1010266000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010266/rgb/010266_000003.png",
+        "caption": "Let's remove that orange valve.",
+        "bbox": [
+            0.62421875,
+            0.7902777777777777,
+            0.0296875,
+            0.08055555555555556
+        ],
+        "label": 99
+    },
+    {
+        "image_id": 1010259000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010259/rgb/010259_000005.png",
+        "caption": "Can you help me move the yellow wallpapering knife to the left?",
+        "bbox": [
+            0.4234375,
+            0.33935185185185185,
+            0.036458333333333336,
+            0.041666666666666664
+        ],
+        "label": 13
+    },
+    {
+        "image_id": 1010285000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010285/rgb/010285_000003.png",
+        "caption": "Let's move that black gas mask to the right.",
+        "bbox": [
+            0.5278645833333333,
+            0.6046296296296296,
+            0.09427083333333333,
+            0.12037037037037036
+        ],
+        "label": 173
+    },
+    {
+        "image_id": 1010265000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010265/rgb/010265_000001.png",
+        "caption": "Please remove that door stopper.",
+        "bbox": [
+            0.6421875,
+            0.5675925925925925,
+            0.09166666666666666,
+            0.06481481481481481
+        ],
+        "label": 90
+    },
+    {
+        "image_id": 1010223000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010223/rgb/010223_000005.png",
+        "caption": "Let's move the red flyer cella to the left.",
+        "bbox": [
+            0.6760416666666667,
+            0.4587962962962963,
+            0.065625,
+            0.16203703703703703
+        ],
+        "label": 74
+    },
+    {
+        "image_id": 1010293000001,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010293/rgb/010293_000001.png",
+        "caption": "Could you move that gray bolt down?",
+        "bbox": [
+            0.7395833333333334,
+            0.6217592592592592,
+            0.014583333333333334,
+            0.026851851851851852
+        ],
+        "label": 106
+    },
+    {
+        "image_id": 1010272000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010272/rgb/010272_000003.png",
+        "caption": "Let's move that blue drill jig upwards.",
+        "bbox": [
+            0.725,
+            0.3787037037037037,
+            0.10520833333333333,
+            0.1259259259259259
+        ],
+        "label": 15
+    },
+    {
+        "image_id": 1010163000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010163/rgb/010163_000004.png",
+        "caption": "Let's move that red glass absorber to the left.",
+        "bbox": [
+            0.6083333333333333,
+            0.46435185185185185,
+            0.06770833333333333,
+            0.10833333333333334
+        ],
+        "label": 46
+    },
+    {
+        "image_id": 1010269000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010269/rgb/010269_000003.png",
+        "caption": "Let's move the flow meter downward together.",
+        "bbox": [
+            0.7174479166666666,
+            0.5412037037037037,
+            0.08177083333333333,
+            0.05462962962962963
+        ],
+        "label": 110
+    },
+    {
+        "image_id": 1010159000005,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010159/rgb/010159_000005.png",
+        "caption": "Can you help me move that light blue file?",
+        "bbox": [
+            0.5106770833333333,
+            0.7902777777777777,
+            0.2296875,
+            0.24166666666666667
+        ],
+        "label": 166
+    },
+    {
+        "image_id": 1010201000002,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010201/rgb/010201_000002.png",
+        "caption": "Let's get those red bolt cutters down together.",
+        "bbox": [
+            0.60546875,
+            0.42824074074074076,
+            0.06822916666666666,
+            0.10462962962962963
+        ],
+        "label": 26
+    },
+    {
+        "image_id": 1010136000004,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010136/rgb/010136_000004.png",
+        "caption": "Let's move the turquoise earmuffs to the left together.",
+        "bbox": [
+            0.5875,
+            0.6425925925925926,
+            0.017708333333333333,
+            0.027777777777777776
+        ],
+        "label": 170
+    },
+    {
+        "image_id": 1010272000003,
+        "file_name": "/root/dataset/PoC_Dataset_v1/real/group_010272/rgb/010272_000003.png",
+        "caption": "Can you help me move the screwdriver to the right?",
+        "bbox": [
+            0.6041666666666666,
+            0.4537037037037037,
+            0.11875,
+            0.1037037037037037
+        ],
+        "label": 14
+    }
+]
