@@ -21,7 +21,7 @@
 * **Image Encoder:** `ResNet-101` (이미지 시각적 특징 추출)
 * **Text Encoder:** `RoBERTa-base` (자연어 지시문 문맥 임베딩)
 * **Fusion:** 시각/언어 정보를 결합(Concatenate)하여 Transformer Encoder-Decoder를 통해 객체 위치와 텍스트 매핑 동시 예측
-> ![Model Architecture](./images/model figure.png) 
+> ![Model Architecture](./images/modelfigure.png) 
 
 ## 🔥 4. Key Technical Contributions 
 > 💡 이질적인 산업용 데이터셋을 모델에 적용하기 위해 **데이터 로딩 및 학습 파이프라인을 독자적으로 재설계**
@@ -64,11 +64,11 @@
 ```
 
 ## 🧑‍💻 Team "Vision2Language"
-이신비 (컴퓨터공학부) - Project Lead, Server Setting, Data Preprocessing, Model Training
+이신비 (한국외대 컴퓨터공학부 24학번) - Project Lead, Server Setting, Data Preprocessing, Model Training
 
-노현두 (컴퓨터공학부) - Results Analysis & Visualization
+노현두 (한국외대 컴퓨터공학부 22학번) - Results Analysis & Visualization
 
-조민채 (컴퓨터공학부) - Env Setup, Pipeline Engineering & Evaluation
+조민채 (한국외대 컴퓨터공학부 23학번) - Env Setup, Pipeline Engineering & Evaluation
 
 ## References
 [Dataset] AI Hub, 제조환경 사람-로봇 공유 작업 데이터 (2024)
