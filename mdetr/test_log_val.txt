@@ -1,0 +1,87 @@
+/opt/miniconda3/envs/mdetr/lib/python3.9/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/opt/miniconda3/envs/mdetr/lib/python3.9/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet101_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet101_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Some weights of RobertaModel were not initialized from the model checkpoint at roberta-base and are newly initialized: ['pooler.dense.bias', 'pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+/root/mdetr/test.py:133: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(args.resume, map_location="cpu")
+🚀 Start Testing on cuda...
+📥 Loading Checkpoint: outputs/aihub_run1/checkpoint_best.pth
+📂 데이터 로딩 중: /root/dataset/val_fixed.json
+✅ Validation Dataset Len: 500
+=== Evaluation Start ===
+[0/500] Current Loss: 446.8181
+🖼️ Saved visualization: outputs/aihub_test/visualizations/result_000.png
+🖼️ Saved visualization: outputs/aihub_test/visualizations/result_001.png
+🖼️ Saved visualization: outputs/aihub_test/visualizations/result_002.png
+🖼️ Saved visualization: outputs/aihub_test/visualizations/result_003.png
+🖼️ Saved visualization: outputs/aihub_test/visualizations/result_004.png
+🖼️ Saved visualization: outputs/aihub_test/visualizations/result_005.png
+🖼️ Saved visualization: outputs/aihub_test/visualizations/result_006.png
+🖼️ Saved visualization: outputs/aihub_test/visualizations/result_007.png
+🖼️ Saved visualization: outputs/aihub_test/visualizations/result_008.png
+🖼️ Saved visualization: outputs/aihub_test/visualizations/result_009.png
+[10/500] Current Loss: 25.3265
+🖼️ Saved visualization: outputs/aihub_test/visualizations/result_010.png
+🖼️ Saved visualization: outputs/aihub_test/visualizations/result_011.png
+🖼️ Saved visualization: outputs/aihub_test/visualizations/result_012.png
+🖼️ Saved visualization: outputs/aihub_test/visualizations/result_013.png
+🖼️ Saved visualization: outputs/aihub_test/visualizations/result_014.png
+⚠️ No box detected for: outputs/aihub_test/visualizations/result_015.png
+🖼️ Saved visualization: outputs/aihub_test/visualizations/result_016.png
+🖼️ Saved visualization: outputs/aihub_test/visualizations/result_017.png
+🖼️ Saved visualization: outputs/aihub_test/visualizations/result_018.png
+🖼️ Saved visualization: outputs/aihub_test/visualizations/result_019.png
+[20/500] Current Loss: 179.7974
+[30/500] Current Loss: 22.7516
+[40/500] Current Loss: 63.2940
+[50/500] Current Loss: 73.8574
+[60/500] Current Loss: 25.9368
+[70/500] Current Loss: 107.6224
+[80/500] Current Loss: 435.2390
+[90/500] Current Loss: 32.4742
+[100/500] Current Loss: 26.7976
+[110/500] Current Loss: 385.1611
+[120/500] Current Loss: 27.1178
+[130/500] Current Loss: 25.4482
+[140/500] Current Loss: 23.0280
+[150/500] Current Loss: 313.0054
+[160/500] Current Loss: 58.4944
+[170/500] Current Loss: 35.6466
+[180/500] Current Loss: 56.9173
+[190/500] Current Loss: 47.6388
+[200/500] Current Loss: 40.9971
+[210/500] Current Loss: 36.4012
+[220/500] Current Loss: 57.4772
+[230/500] Current Loss: 36.8830
+[240/500] Current Loss: 22.5493
+[250/500] Current Loss: 88.8294
+[260/500] Current Loss: 29.2454
+[270/500] Current Loss: 164.3686
+[280/500] Current Loss: 40.5342
+[290/500] Current Loss: 66.2028
+[300/500] Current Loss: 28.9992
+[310/500] Current Loss: 28.2308
+[320/500] Current Loss: 95.1392
+[330/500] Current Loss: 45.9582
+[340/500] Current Loss: 174.7976
+[350/500] Current Loss: 25.7331
+[360/500] Current Loss: 301.6917
+[370/500] Current Loss: 27.8412
+[380/500] Current Loss: 26.1040
+[390/500] Current Loss: 106.7884
+[400/500] Current Loss: 24.7321
+[410/500] Current Loss: 126.9422
+[420/500] Current Loss: 73.8039
+[430/500] Current Loss: 42.5256
+[440/500] Current Loss: 38.1962
+[450/500] Current Loss: 124.0559
+[460/500] Current Loss: 496.0220
+[470/500] Current Loss: 69.9225
+[480/500] Current Loss: 30.8513
+[490/500] Current Loss: 23.1807
+==============================
+🏆 Final Average Validation Loss: 70.1922
+📂 Visualizations saved to: outputs/aihub_test/visualizations
+==============================

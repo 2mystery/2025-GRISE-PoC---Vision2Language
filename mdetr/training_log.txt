@@ -1,0 +1,240 @@
+/opt/miniconda3/envs/mdetr/lib/python3.9/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/opt/miniconda3/envs/mdetr/lib/python3.9/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet101_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet101_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Some weights of RobertaModel were not initialized from the model checkpoint at roberta-base and are newly initialized: ['pooler.dense.bias', 'pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+/root/mdetr/train.py:122: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(checkpoint_path, map_location="cpu")
+📂 데이터 로딩 중: /root/dataset/train_mdetr.json
+✅ dataset len = 2663
+🚀 building model...
+📥 Loading Pre-trained weights from: /root/mdetr/checkpoints/pretrained_resnet101_checkpoint.pth
+📝 using tokenizer: roberta-base
+=== Start Training ===
+DEBUG outputs keys: dict_keys(['pred_logits', 'pred_boxes', 'proj_queries', 'proj_tokens', 'tokenized', 'aux_outputs'])
+[Epoch 0 | Iter 0] loss=334.3152
+[Epoch 0 | Iter 20] loss=222.8170
+[Epoch 0 | Iter 40] loss=135.6418
+[Epoch 0 | Iter 60] loss=173.7213
+[Epoch 0 | Iter 80] loss=147.2882
+[Epoch 0 | Iter 100] loss=119.8317
+[Epoch 0 | Iter 120] loss=208.8163
+[Epoch 0 | Iter 140] loss=106.9314
+[Epoch 0 | Iter 160] loss=173.1711
+[Epoch 0 | Iter 180] loss=110.5223
+[Epoch 0 | Iter 200] loss=114.0245
+[Epoch 0 | Iter 220] loss=82.2272
+[Epoch 0 | Iter 240] loss=143.5456
+[Epoch 0 | Iter 260] loss=113.2740
+[Epoch 0 | Iter 280] loss=145.9467
+[Epoch 0 | Iter 300] loss=85.0584
+[Epoch 0 | Iter 320] loss=71.1608
+[Epoch 0 | Iter 340] loss=69.4496
+[Epoch 0 | Iter 360] loss=127.9699
+[Epoch 0 | Iter 380] loss=138.3055
+[Epoch 0 | Iter 400] loss=95.6995
+[Epoch 0 | Iter 420] loss=96.6806
+[Epoch 0 | Iter 440] loss=100.2225
+[Epoch 0 | Iter 460] loss=86.0706
+[Epoch 0 | Iter 480] loss=145.4089
+[Epoch 0 | Iter 500] loss=94.1008
+[Epoch 0 | Iter 520] loss=255.2878
+[Epoch 0 | Iter 540] loss=140.5997
+[Epoch 0 | Iter 560] loss=113.4459
+[Epoch 0 | Iter 580] loss=107.7830
+[Epoch 0 | Iter 600] loss=125.2163
+[Epoch 0 | Iter 620] loss=131.0782
+[Epoch 0 | Iter 640] loss=102.8973
+[Epoch 0 | Iter 660] loss=50.8038
+[Epoch 0 | Iter 680] loss=139.3686
+[Epoch 0 | Iter 700] loss=109.0211
+[Epoch 0 | Iter 720] loss=72.9998
+[Epoch 0 | Iter 740] loss=89.4446
+[Epoch 0 | Iter 760] loss=80.7902
+[Epoch 0 | Iter 780] loss=57.2120
+[Epoch 0 | Iter 800] loss=143.7664
+[Epoch 0 | Iter 820] loss=62.8075
+[Epoch 0 | Iter 840] loss=110.7692
+[Epoch 0 | Iter 860] loss=180.5722
+[Epoch 0 | Iter 880] loss=101.8997
+[Epoch 0 | Iter 900] loss=197.7135
+[Epoch 0 | Iter 920] loss=80.4024
+[Epoch 0 | Iter 940] loss=127.1653
+[Epoch 0 | Iter 960] loss=194.4468
+[Epoch 0 | Iter 980] loss=103.1650
+[Epoch 0 | Iter 1000] loss=214.5393
+[Epoch 0 | Iter 1020] loss=116.3992
+[Epoch 0 | Iter 1040] loss=60.4759
+[Epoch 0 | Iter 1060] loss=115.8822
+[Epoch 0 | Iter 1080] loss=96.3858
+[Epoch 0 | Iter 1100] loss=148.8758
+[Epoch 0 | Iter 1120] loss=106.7536
+[Epoch 0 | Iter 1140] loss=138.1193
+[Epoch 0 | Iter 1160] loss=203.0779
+[Epoch 0 | Iter 1180] loss=79.6099
+[Epoch 0 | Iter 1200] loss=179.8509
+[Epoch 0 | Iter 1220] loss=133.4510
+[Epoch 0 | Iter 1240] loss=94.5813
+[Epoch 0 | Iter 1260] loss=109.9307
+[Epoch 0 | Iter 1280] loss=129.7516
+[Epoch 0 | Iter 1300] loss=171.6956
+[Epoch 0 | Iter 1320] loss=121.2596
+=== Epoch 0 done | avg_loss=126.4236 ===
+Saved: outputs_custom/final_run/checkpoint_epoch000.pth
+[Epoch 1 | Iter 0] loss=103.0689
+[Epoch 1 | Iter 20] loss=122.5945
+[Epoch 1 | Iter 40] loss=145.4055
+[Epoch 1 | Iter 60] loss=95.4243
+[Epoch 1 | Iter 80] loss=111.6700
+[Epoch 1 | Iter 100] loss=133.1375
+[Epoch 1 | Iter 120] loss=118.6853
+[Epoch 1 | Iter 140] loss=155.8988
+[Epoch 1 | Iter 160] loss=57.5032
+[Epoch 1 | Iter 180] loss=188.6443
+[Epoch 1 | Iter 200] loss=98.8356
+[Epoch 1 | Iter 220] loss=89.7110
+[Epoch 1 | Iter 240] loss=79.0344
+[Epoch 1 | Iter 260] loss=128.3574
+[Epoch 1 | Iter 280] loss=129.8715
+[Epoch 1 | Iter 300] loss=59.0003
+[Epoch 1 | Iter 320] loss=86.8162
+[Epoch 1 | Iter 340] loss=68.2760
+[Epoch 1 | Iter 360] loss=76.3098
+[Epoch 1 | Iter 380] loss=83.7353
+[Epoch 1 | Iter 400] loss=95.4923
+[Epoch 1 | Iter 420] loss=88.2328
+[Epoch 1 | Iter 440] loss=154.7011
+[Epoch 1 | Iter 460] loss=103.8235
+[Epoch 1 | Iter 480] loss=92.0952
+[Epoch 1 | Iter 500] loss=175.1223
+[Epoch 1 | Iter 520] loss=97.4853
+[Epoch 1 | Iter 540] loss=93.5299
+[Epoch 1 | Iter 560] loss=76.6325
+[Epoch 1 | Iter 580] loss=107.1234
+[Epoch 1 | Iter 600] loss=71.1031
+[Epoch 1 | Iter 620] loss=72.4900
+[Epoch 1 | Iter 640] loss=103.6834
+[Epoch 1 | Iter 660] loss=125.3537
+[Epoch 1 | Iter 680] loss=76.8332
+[Epoch 1 | Iter 700] loss=80.1646
+[Epoch 1 | Iter 720] loss=129.3304
+[Epoch 1 | Iter 740] loss=102.8674
+[Epoch 1 | Iter 760] loss=164.7603
+[Epoch 1 | Iter 780] loss=85.1806
+[Epoch 1 | Iter 800] loss=153.6129
+[Epoch 1 | Iter 820] loss=111.6714
+[Epoch 1 | Iter 840] loss=78.5118
+[Epoch 1 | Iter 860] loss=128.5462
+[Epoch 1 | Iter 880] loss=59.4071
+[Epoch 1 | Iter 900] loss=87.4239
+[Epoch 1 | Iter 920] loss=102.0877
+[Epoch 1 | Iter 940] loss=134.5523
+[Epoch 1 | Iter 960] loss=71.8202
+[Epoch 1 | Iter 980] loss=101.1195
+[Epoch 1 | Iter 1000] loss=87.7840
+[Epoch 1 | Iter 1020] loss=103.1269
+[Epoch 1 | Iter 1040] loss=112.9795
+[Epoch 1 | Iter 1060] loss=92.7931
+[Epoch 1 | Iter 1080] loss=112.9360
+[Epoch 1 | Iter 1100] loss=83.2019
+[Epoch 1 | Iter 1120] loss=83.9775
+[Epoch 1 | Iter 1140] loss=82.9695
+[Epoch 1 | Iter 1160] loss=106.9352
+[Epoch 1 | Iter 1180] loss=66.4081
+[Epoch 1 | Iter 1200] loss=183.9868
+[Epoch 1 | Iter 1220] loss=44.0114
+[Epoch 1 | Iter 1240] loss=101.4755
+[Epoch 1 | Iter 1260] loss=79.0735
+[Epoch 1 | Iter 1280] loss=84.8596
+[Epoch 1 | Iter 1300] loss=71.0410
+[Epoch 1 | Iter 1320] loss=86.8608
+=== Epoch 1 done | avg_loss=104.1105 ===
+Saved: outputs_custom/final_run/checkpoint_epoch001.pth
+[Epoch 2 | Iter 0] loss=103.3531
+[Epoch 2 | Iter 20] loss=83.7830
+[Epoch 2 | Iter 40] loss=114.5907
+[Epoch 2 | Iter 60] loss=92.9326
+[Epoch 2 | Iter 80] loss=60.6546
+[Epoch 2 | Iter 100] loss=42.7365
+[Epoch 2 | Iter 120] loss=57.1451
+[Epoch 2 | Iter 140] loss=92.1694
+[Epoch 2 | Iter 160] loss=98.1880
+[Epoch 2 | Iter 180] loss=135.2422
+[Epoch 2 | Iter 200] loss=88.1505
+[Epoch 2 | Iter 220] loss=80.3289
+[Epoch 2 | Iter 240] loss=106.3848
+[Epoch 2 | Iter 260] loss=79.9209
+[Epoch 2 | Iter 280] loss=98.6466
+[Epoch 2 | Iter 300] loss=112.4155
+[Epoch 2 | Iter 320] loss=94.9541
+[Epoch 2 | Iter 340] loss=81.5675
+[Epoch 2 | Iter 360] loss=79.2081
+[Epoch 2 | Iter 380] loss=106.3838
+[Epoch 2 | Iter 400] loss=135.1505
+[Epoch 2 | Iter 420] loss=125.6639
+[Epoch 2 | Iter 440] loss=176.3030
+[Epoch 2 | Iter 460] loss=124.9167
+[Epoch 2 | Iter 480] loss=130.5827
+[Epoch 2 | Iter 500] loss=129.2995
+[Epoch 2 | Iter 520] loss=127.8742
+[Epoch 2 | Iter 540] loss=121.0399
+[Epoch 2 | Iter 560] loss=130.4422
+[Epoch 2 | Iter 580] loss=78.6007
+[Epoch 2 | Iter 600] loss=73.6059
+[Epoch 2 | Iter 620] loss=63.1033
+[Epoch 2 | Iter 640] loss=53.4780
+[Epoch 2 | Iter 660] loss=55.5148
+[Epoch 2 | Iter 680] loss=100.1214
+[Epoch 2 | Iter 700] loss=74.1080
+[Epoch 2 | Iter 720] loss=141.5480
+[Epoch 2 | Iter 740] loss=65.0278
+[Epoch 2 | Iter 760] loss=49.6108
+[Epoch 2 | Iter 780] loss=69.8377
+[Epoch 2 | Iter 800] loss=41.9699
+[Epoch 2 | Iter 820] loss=29.7324
+[Epoch 2 | Iter 840] loss=91.2139
+[Epoch 2 | Iter 860] loss=50.6017
+[Epoch 2 | Iter 880] loss=127.3540
+[Epoch 2 | Iter 900] loss=115.3009
+[Epoch 2 | Iter 920] loss=60.6571
+[Epoch 2 | Iter 940] loss=75.8741
+[Epoch 2 | Iter 960] loss=57.8246
+[Epoch 2 | Iter 980] loss=62.4509
+[Epoch 2 | Iter 1000] loss=65.8310
+[Epoch 2 | Iter 1020] loss=65.8571
+[Epoch 2 | Iter 1040] loss=44.8371
+[Epoch 2 | Iter 1060] loss=83.4808
+[Epoch 2 | Iter 1080] loss=56.9923
+[Epoch 2 | Iter 1100] loss=105.3891
+[Epoch 2 | Iter 1120] loss=276.8286
+[Epoch 2 | Iter 1140] loss=101.3103
+[Epoch 2 | Iter 1160] loss=55.7265
+[Epoch 2 | Iter 1180] loss=60.9480
+[Epoch 2 | Iter 1200] loss=81.8871
+[Epoch 2 | Iter 1220] loss=58.7492
+[Epoch 2 | Iter 1240] loss=76.5317
+[Epoch 2 | Iter 1260] loss=63.9634
+[Epoch 2 | Iter 1280] loss=91.2675
+[Epoch 2 | Iter 1300] loss=87.1261
+[Epoch 2 | Iter 1320] loss=103.3741
+=== Epoch 2 done | avg_loss=90.7731 ===
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/mdetr/lib/python3.9/site-packages/torch/serialization.py", line 850, in save
+    _save(
+  File "/opt/miniconda3/envs/mdetr/lib/python3.9/site-packages/torch/serialization.py", line 1114, in _save
+    zip_file.write_record(name, storage, num_bytes)
+RuntimeError: [enforce fail at inline_container.cc:778] . PytorchStreamWriter failed writing file data/309: file write failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/mdetr/train.py", line 251, in <module>
+    main()
+  File "/root/mdetr/train.py", line 239, in main
+    torch.save({
+  File "/opt/miniconda3/envs/mdetr/lib/python3.9/site-packages/torch/serialization.py", line 857, in save
+    return
+  File "/opt/miniconda3/envs/mdetr/lib/python3.9/site-packages/torch/serialization.py", line 690, in __exit__
+    self.file_like.write_end_of_file()
+RuntimeError: [enforce fail at inline_container.cc:603] . unexpected pos 1857056512 vs 1857056400
