@@ -1,5 +1,5 @@
 # 🏭 자연어 지시 기반 객체 탐지를 위한 Vision-Language 모델 PoC 연구
-> **G-RISE 2025 지산학 얼라이언스 고도화 지역 산업군 PoC 연구 (Vision2Language 팀) / 장려상 수상작 ** <br>
+### G-RISE 2025 지산학 얼라이언스 고도화 지역 산업군 PoC 연구 (Vision2Language 팀) / 장려상 수상작 <br>
 > **Task:** Referring Expression Comprehension (REC) in Manufacturing Environment
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python)
