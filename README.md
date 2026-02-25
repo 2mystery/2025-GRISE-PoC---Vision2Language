@@ -8,14 +8,14 @@
 > ![Poster](./images/poster.png) 
 
 ## 💡 1. Project Overview
-현대 제조 및 물류 현장에서는 인간과 로봇이 공간을 공유하며 협업한다. 하지만 기존의 로봇 인지 시스템은 고정된 명령어에만 의존하여, "오른쪽의 검은색 귀덮개를 치워주세요"와 같은 유동적이고 복잡한 자연어 지시를 처리하는 데 한계가 있다. 본 프로젝트는 자연어(Text)와 시각 정보(Image)를 동시에 이해하는 **MDETR(Modulated DETR)** 모델을 도입하여, 작업자의 복합적인 자연어 명령을 이해하고 해당 객체의 위치를 정확히 파악(Visual Grounding)하는 **Vision-Language 객체 탐지 파이프라인의 현장 적용 가능성(PoC)**을 검증한다.
+현대 제조 및 물류 현장에서는 인간과 로봇이 공간을 공유하며 협업한다. 하지만 기존의 로봇 인지 시스템은 고정된 명령어에만 의존하여, "오른쪽의 검은색 귀덮개를 치워주세요"와 같은 유동적이고 복잡한 자연어 지시를 처리하는 데 한계가 있다. 본 프로젝트는 자연어(Text)와 시각 정보(Image)를 동시에 이해하는 **MDETR(Modulated DETR)** 모델을 도입하여, 작업자의 복합적인 자연어 명령을 이해하고 해당 객체의 위치를 정확히 파악(Visual Grounding)하는 Vision-Language 객체 탐지 파이프라인의 현장 적용 가능성(PoC)을 검증한다.
 
 ## 📊 2. Dataset
 * **출처:** [AI-Hub 제조환경 사람-로봇 공유 작업 데이터](https://aihub.or.kr/)
 * **데이터 전처리 (Data Engineering):**
   * **Filtering:** 범용성 확보를 위해 3D CAD, Depth Map 데이터를 제외하고 **Real RGB 이미지**만 선별
   * **Alignment:** 사전 학습된 텍스트 인코더(RoBERTa)와의 호환성을 위해 한국어 지시문을 영어로 번역 및 정제
-  * **Normalization:** 다양한 해상도에 강건하게 대응하기 위해 Bounding Box 절대 좌표를 **상대 비율 좌표(0.0~1.0)**로 정규화
+  * **Normalization:** 다양한 해상도에 강건하게 대응하기 위해 Bounding Box 절대 좌표를 상대 비율 좌표(0.0~1.0)로 정규화
 
 ## 🧠 3. Model Architecture
 * **Image Encoder:** `ResNet-101` (이미지 시각적 특징 추출)
